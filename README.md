@@ -31,4 +31,4 @@ No build step. Any static host can serve this folder as it is.
 
 When `css/site.css` or a file in `js/` changes, raise the `?v=` number on the links to it in every page, so browsers load the new file.
 
-If the site moves to its own domain, update the address in `404.html`, `robots.txt`, `sitemap.xml` and the `og:url` / `og:image` tags.
+If the site moves to its own domain, update the address in `404.html`, `robots.txt`, `sitemap.xml`, and on every page the canonical link, the `hreflang` links, the `og:url` / `og:image` tags and the structured data.

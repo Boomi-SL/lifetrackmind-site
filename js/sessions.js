@@ -14,7 +14,7 @@
       about: 'For when your thoughts are racing. Uses your senses to bring you back to the room you are in.',
       steps: [
         ['Arrive', 'Sit or stand comfortably. Let your shoulders drop. Take one slow breath in and a longer breath out.'],
-        ['5 things you can see', 'Look around slowly. Name five things you can see, one at a time. Notice a colour or a shape in each.'],
+        ['5 things you can see', 'Look around slowly. Name five things you can see, one at a time. Notice a color or a shape in each.'],
         ['4 things you can feel', 'Notice four things touching you: your feet on the floor, the chair, your clothes, the air on your skin.'],
         ['3 things you can hear', 'Listen for three sounds. Near ones, far ones. You do not need to like them, only notice them.'],
         ['2 things you can smell', 'Find two smells, even faint ones. If you cannot find any, remember two smells you like.'],
