@@ -198,3 +198,40 @@ html{scroll-behavior:smooth}
 .lesson-nav{margin-top:28px;max-width:680px}
 .lesson .tool-kicker a{font-weight:600}
 .prose a.quiz-next{color:#FAF7EF;text-decoration:none}
+
+/* Games hub */
+.game-wrap{max-width:1040px}
+.game-menu{list-style:none;margin:16px 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:24px}
+.game-tile{background:#FFFFFF;border:1px solid #DCE5DE;border-radius:24px;padding:16px 16px 24px;display:flex;flex-direction:column;align-items:flex-start;gap:10px;transition:transform .25s ease,box-shadow .25s ease}
+.game-tile:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(15,76,74,.10)}
+.game-art{width:100%;aspect-ratio:16/10;border-radius:16px;display:flex;align-items:center;justify-content:center;margin-bottom:6px}
+.game-art-a{background:#E4ECE6}.game-art-b{background:#F1E9D6}.game-art-c{background:#F6E3B8}.game-art-d{background:#F1F5F1}
+.game-tile-title{font-size:22px;line-height:1.2;padding:0 8px}
+.game-tile-text{margin:0;color:#4B625F;flex:1;padding:0 8px}
+.game-tile .quiz-next{margin:6px 8px 0}
+.game-stage{background:#FAF7EF;border:1px solid #E3DCCB;border-radius:24px;padding:28px;display:flex;flex-direction:column;gap:14px;margin-top:16px;scroll-margin-top:16px}
+.game-stage-head{display:flex;flex-direction:column;align-items:flex-start;gap:0}
+.game-title:focus{outline:none}
+.game-area{display:flex;flex-direction:column;gap:10px}
+.game-stage .bubble-field{background:#FFFFFF}
+.doodle-canvas{width:100%;max-width:520px;aspect-ratio:1;border-radius:20px;border:1px solid #E3DCCB;background:#FAF7EF;touch-action:none;cursor:crosshair;display:block}
+.doodle-swatches{display:flex;gap:10px}
+.doodle-swatch{width:44px;height:44px;border-radius:50%;border:3px solid #FAF7EF;box-shadow:0 0 0 1.5px #8F8A78;cursor:pointer;padding:0}
+.doodle-swatch[aria-pressed="true"]{box-shadow:0 0 0 3px #12302E}
+.sort-row{display:grid;grid-template-columns:repeat(7,1fr);gap:8px;max-width:620px}
+.sort-tile{aspect-ratio:3/5;border-radius:12px;border:1.5px solid #5E7D75;cursor:pointer;padding:0;transition:transform .2s ease}
+.sort-tile.is-picked{transform:translateY(-10px);box-shadow:0 0 0 3px #B8872A}
+.sort-tile:disabled{cursor:default}
+.sort-ends{display:flex;justify-content:space-between;max-width:620px;font-size:14px;color:#4B625F}
+.echo-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;max-width:340px}
+.echo-pad{aspect-ratio:1;border-radius:22px;border:1.5px solid #7FA89B;background:#E4ECE6;color:#0F4C4A;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background .2s ease,transform .2s ease,color .2s ease}
+.echo-pad:disabled{cursor:default}
+.echo-pad.is-lit{background:#0F4C4A;color:#FAF7EF;transform:scale(1.04)}
+.echo-pad:not(:disabled):active{background:#C5D9CE}
+.pond{position:relative;height:380px;border-radius:20px;background:#C5D9CE;border:1px solid #A3C2B4;overflow:hidden;cursor:pointer;touch-action:manipulation}
+.ripple{position:absolute;width:12px;height:12px;border-radius:50%;border:2px solid #0F4C4A;box-sizing:border-box;transform:translate(-50%,-50%);pointer-events:none;animation:ltm-ripple 3s ease-out forwards}
+.ripple::after{content:"";position:absolute;inset:22%;border-radius:50%;border:1.5px solid #2F6B62}
+@keyframes ltm-ripple{from{width:12px;height:12px;opacity:.9}to{width:420px;height:420px;opacity:0}}
+@media (max-width:480px){.game-stage{padding:20px}.sort-row{gap:5px}}
+@media (prefers-reduced-motion:reduce){.game-tile,.sort-tile,.echo-pad{transition:none}.game-tile:hover{transform:none}.ripple{width:140px;height:140px;animation:ltm-ripple-still 3s linear forwards}}
+@keyframes ltm-ripple-still{from{opacity:.8}to{opacity:0}}
