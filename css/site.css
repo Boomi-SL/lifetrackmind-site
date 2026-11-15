@@ -138,3 +138,13 @@ html{scroll-behavior:smooth}
 .shop-grid{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:20px}
 .shop-card{background:#FAF7EF;border:1px solid #E3DCCB;border-radius:20px;padding:26px 24px 16px;display:flex;flex-direction:column;gap:8px}
 @media (max-width:480px){.shelf-grid{grid-template-columns:repeat(2,1fr);gap:28px 16px}.shelf-cover{padding:14px 12px}.shelf-cover-title{font-size:16px}}
+
+/* Text pages */
+.prose{gap:16px}
+.prose h2{font-size:24px;line-height:1.25;margin-top:20px}
+.prose p,.prose ul{margin:0;max-width:680px}
+.prose ul{padding-left:22px;display:flex;flex-direction:column;gap:8px}
+.prose a{font-weight:600}
+.prose .quiz-next{color:#FAF7EF}
+/* Compact header on phones */
+@media (max-width:600px){header nav{gap:0 18px!important;font-size:15px}header nav a{padding-top:8px!important;padding-bottom:8px!important}}
