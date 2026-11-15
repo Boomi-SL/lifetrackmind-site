@@ -5,11 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Life Track Mind | Take a breath. Then untangle your mind.</title>
 <meta name="description" content="Simple tools, short lessons and quiet exercises for overthinking, comparison and the feeling of falling behind.">
-<link rel="icon" href="assets/favicon.svg?v=2" type="image/svg+xml">
+<link rel="icon" href="assets/favicon.svg?v=3" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap">
-<link rel="stylesheet" href="css/site.css?v=2">
+<link rel="stylesheet" href="css/site.css?v=3">
 </head>
 <body>
 <div style="font-family: 'Manrope', system-ui, sans-serif; color: #12302E; background: #FAF7EF; line-height: 1.6; font-size: 17px">
@@ -113,25 +113,44 @@
 <p style="margin: 0; color: #4B625F; max-width: 460px">Move the sliders for a simple reading of where you are, with one action sized to match. Save your check-ins to see your week.</p>
 <p style="margin: 0; color: #4B625F; font-size: 15px; max-width: 460px">This is a self-reflection tool. It does not diagnose or treat any condition.</p>
 </div>
-<form style="background: #FAF7EF; border: 1px solid #E3DCCB; border-radius: 20px; padding: 32px; display: flex; flex-direction: column; gap: 22px">
-<div style="display: flex; flex-direction: column; gap: 6px">
-<label for="s1" style="font-weight: 600">Racing thoughts</label>
-<input id="s1" type="range" min="1" max="5" value="4" style="width: 100%; height: 44px; accent-color: #0F4C4A">
+<form id="checkin-form" class="checkin-card">
+<div class="checkin-field">
+<label for="s1">Racing thoughts</label>
+<input id="s1" type="range" min="1" max="5" step="1" value="3">
+<div class="checkin-ends" aria-hidden="true"><span>Quiet</span><span>Racing</span></div>
 </div>
-<div style="display: flex; flex-direction: column; gap: 6px">
-<label for="s2" style="font-weight: 600">Tension in your body</label>
-<input id="s2" type="range" min="1" max="5" value="3" style="width: 100%; height: 44px; accent-color: #0F4C4A">
+<div class="checkin-field">
+<label for="s2">Tension in your body</label>
+<input id="s2" type="range" min="1" max="5" step="1" value="3">
+<div class="checkin-ends" aria-hidden="true"><span>Loose</span><span>Tight</span></div>
 </div>
-<div style="display: flex; flex-direction: column; gap: 6px">
-<label for="s3" style="font-weight: 600">Sleep last night</label>
-<input id="s3" type="range" min="1" max="5" value="2" style="width: 100%; height: 44px; accent-color: #0F4C4A">
+<div class="checkin-field">
+<label for="s3">Tiredness</label>
+<input id="s3" type="range" min="1" max="5" step="1" value="3">
+<div class="checkin-ends" aria-hidden="true"><span>Rested</span><span>Worn out</span></div>
 </div>
-<div style="background: #FFFFFF; border: 1px solid #E3DCCB; border-radius: 14px; padding: 20px 22px; display: flex; flex-direction: column; gap: 6px">
-<span style="font-size: 14px; font-weight: 600; color: #4B625F">Today's reading</span>
-<span style="font-size: 22px; font-weight: 600; letter-spacing: -0.01em">Wound up, not overwhelmed</span>
-<span style="color: #4B625F">Try this: three minutes of slow breathing before your next task.</span>
+<div class="checkin-field">
+<label for="s4">How much is on your plate</label>
+<input id="s4" type="range" min="1" max="5" step="1" value="3">
+<div class="checkin-ends" aria-hidden="true"><span>Light</span><span>Too much</span></div>
 </div>
-<button type="button" style="font: inherit; font-weight: 600; padding: 14px 26px; min-height: 48px; border-radius: 999px; border: 0; background: #0F4C4A; color: #FAF7EF; cursor: pointer; align-self: flex-start">Save today's check-in</button>
+<div class="checkin-reading" aria-live="polite">
+<span class="checkin-reading-label">Today's reading</span>
+<span id="checkin-title" class="checkin-reading-title">A little wound up</span>
+<span id="checkin-step" class="checkin-reading-step">One small step: three minutes of slow breathing before your next task.</span>
+</div>
+<div class="checkin-actions">
+<button type="submit" class="quiz-next">Save today's check-in</button>
+<span id="checkin-status" class="checkin-status" role="status"></span>
+</div>
+<div class="checkin-week-wrap">
+<span class="checkin-reading-label">Your last 7 days</span>
+<ol id="checkin-week" class="checkin-week"></ol>
+<div class="checkin-foot">
+<span>Saved only on this device.</span>
+<button type="button" id="checkin-clear" class="quiz-back" hidden>Clear my check-ins</button>
+</div>
+</div>
 </form>
 </div>
 </section>
@@ -249,6 +268,7 @@
 </footer>
 
 </div>
-<script src="js/quiz.js?v=2" defer></script>
+<script src="js/quiz.js?v=3" defer></script>
+<script src="js/checkin.js?v=3" defer></script>
 </body>
 </html>
