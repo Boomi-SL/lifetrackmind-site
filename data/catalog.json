@@ -1,0 +1,298 @@
+[
+ {
+  "key": "the-untethered-soul",
+  "kind": "book",
+  "title": "The Untethered Soul",
+  "author": "Michael A. Singer"
+ },
+ {
+  "key": "don-t-believe-everything-you-think",
+  "kind": "book",
+  "title": "Don't Believe Everything You Think",
+  "author": "Joseph Nguyen"
+ },
+ {
+  "key": "stop-overthinking",
+  "kind": "book",
+  "title": "Stop Overthinking",
+  "author": "Nick Trenton"
+ },
+ {
+  "key": "the-worry-trick",
+  "kind": "book",
+  "title": "The Worry Trick",
+  "author": "David A. Carbonell"
+ },
+ {
+  "key": "feeling-good",
+  "kind": "book",
+  "title": "Feeling Good",
+  "author": "David D. Burns"
+ },
+ {
+  "key": "the-gifts-of-imperfection",
+  "kind": "book",
+  "title": "The Gifts of Imperfection",
+  "author": "Brené Brown"
+ },
+ {
+  "key": "self-compassion",
+  "kind": "book",
+  "title": "Self-Compassion",
+  "author": "Kristin Neff"
+ },
+ {
+  "key": "the-courage-to-be-disliked",
+  "kind": "book",
+  "title": "The Courage to Be Disliked",
+  "author": "Ichiro Kishimi and Fumitake Koga"
+ },
+ {
+  "key": "the-six-pillars-of-self-esteem",
+  "kind": "book",
+  "title": "The Six Pillars of Self-Esteem",
+  "author": "Nathaniel Branden"
+ },
+ {
+  "key": "set-boundaries-find-peace",
+  "kind": "book",
+  "title": "Set Boundaries, Find Peace",
+  "author": "Nedra Glover Tawwab"
+ },
+ {
+  "key": "boundaries",
+  "kind": "book",
+  "title": "Boundaries",
+  "author": "Henry Cloud and John Townsend"
+ },
+ {
+  "key": "not-nice",
+  "kind": "book",
+  "title": "Not Nice",
+  "author": "Aziz Gazipura"
+ },
+ {
+  "key": "the-disease-to-please",
+  "kind": "book",
+  "title": "The Disease to Please",
+  "author": "Harriet B. Braiker"
+ },
+ {
+  "key": "atomic-habits",
+  "kind": "book",
+  "title": "Atomic Habits",
+  "author": "James Clear",
+  "asin": "0735211299"
+ },
+ {
+  "key": "tiny-habits",
+  "kind": "book",
+  "title": "Tiny Habits",
+  "author": "BJ Fogg"
+ },
+ {
+  "key": "the-power-of-habit",
+  "kind": "book",
+  "title": "The Power of Habit",
+  "author": "Charles Duhigg"
+ },
+ {
+  "key": "mindset",
+  "kind": "book",
+  "title": "Mindset",
+  "author": "Carol S. Dweck"
+ },
+ {
+  "key": "man-s-search-for-meaning",
+  "kind": "book",
+  "title": "Man's Search for Meaning",
+  "author": "Viktor E. Frankl"
+ },
+ {
+  "key": "why-we-sleep",
+  "kind": "book",
+  "title": "Why We Sleep",
+  "author": "Matthew Walker"
+ },
+ {
+  "key": "burnout",
+  "kind": "book",
+  "title": "Burnout",
+  "author": "Emily Nagoski and Amelia Nagoski"
+ },
+ {
+  "key": "the-body-keeps-the-score",
+  "kind": "book",
+  "title": "The Body Keeps the Score",
+  "author": "Bessel van der Kolk"
+ },
+ {
+  "key": "why-zebras-don-t-get-ulcers",
+  "kind": "book",
+  "title": "Why Zebras Don't Get Ulcers",
+  "author": "Robert M. Sapolsky"
+ },
+ {
+  "key": "wherever-you-go-there-you-are",
+  "kind": "book",
+  "title": "Wherever You Go, There You Are",
+  "author": "Jon Kabat-Zinn"
+ },
+ {
+  "key": "the-power-of-now",
+  "kind": "book",
+  "title": "The Power of Now",
+  "author": "Eckhart Tolle"
+ },
+ {
+  "key": "thinking-fast-and-slow",
+  "kind": "book",
+  "title": "Thinking, Fast and Slow",
+  "author": "Daniel Kahneman"
+ },
+ {
+  "key": "emotional-intelligence",
+  "kind": "book",
+  "title": "Emotional Intelligence",
+  "author": "Daniel Goleman"
+ },
+ {
+  "key": "meditations",
+  "kind": "book",
+  "title": "Meditations",
+  "author": "Marcus Aurelius"
+ },
+ {
+  "key": "weighted-blanket",
+  "kind": "product",
+  "title": "Weighted blanket",
+  "keywords": "weighted blanket",
+  "asin": "B092LZLLGF"
+ },
+ {
+  "key": "sunrise-alarm-clock",
+  "kind": "product",
+  "title": "Sunrise alarm clock",
+  "keywords": "sunrise alarm clock"
+ },
+ {
+  "key": "white-noise-machine",
+  "kind": "product",
+  "title": "White noise machine",
+  "keywords": "white noise machine"
+ },
+ {
+  "key": "sleep-mask",
+  "kind": "product",
+  "title": "Sleep mask",
+  "keywords": "contoured sleep mask"
+ },
+ {
+  "key": "soft-earplugs",
+  "kind": "product",
+  "title": "Soft earplugs",
+  "keywords": "soft earplugs for sleeping"
+ },
+ {
+  "key": "essential-oil-diffuser",
+  "kind": "product",
+  "title": "Essential oil diffuser",
+  "keywords": "essential oil diffuser"
+ },
+ {
+  "key": "chamomile-tea",
+  "kind": "product",
+  "title": "Chamomile tea",
+  "keywords": "chamomile tea bags"
+ },
+ {
+  "key": "warm-lamp",
+  "kind": "product",
+  "title": "Warm lamp",
+  "keywords": "warm dimmable bedside lamp"
+ },
+ {
+  "key": "meditation-cushion",
+  "kind": "product",
+  "title": "Meditation cushion",
+  "keywords": "meditation cushion"
+ },
+ {
+  "key": "guided-journal",
+  "kind": "product",
+  "title": "Guided journal",
+  "keywords": "guided journal for anxiety and overthinking"
+ },
+ {
+  "key": "gratitude-journal",
+  "kind": "product",
+  "title": "Gratitude journal",
+  "keywords": "five minute gratitude journal"
+ },
+ {
+  "key": "plain-notebook",
+  "kind": "product",
+  "title": "Plain notebook",
+  "keywords": "hardcover dotted notebook"
+ },
+ {
+  "key": "daily-planner",
+  "kind": "product",
+  "title": "Daily planner",
+  "keywords": "undated daily planner"
+ },
+ {
+  "key": "adult-coloring-book",
+  "kind": "product",
+  "title": "Adult coloring book",
+  "keywords": "adult coloring book calm patterns"
+ },
+ {
+  "key": "yoga-mat",
+  "kind": "product",
+  "title": "Yoga mat",
+  "keywords": "yoga mat"
+ },
+ {
+  "key": "acupressure-mat",
+  "kind": "product",
+  "title": "Acupressure mat",
+  "keywords": "acupressure mat and pillow"
+ },
+ {
+  "key": "foam-roller",
+  "kind": "product",
+  "title": "Foam roller",
+  "keywords": "foam roller"
+ },
+ {
+  "key": "massage-ball",
+  "kind": "product",
+  "title": "Massage ball",
+  "keywords": "massage ball set"
+ },
+ {
+  "key": "stress-ball",
+  "kind": "product",
+  "title": "Stress ball",
+  "keywords": "stress ball"
+ },
+ {
+  "key": "fidget-toy",
+  "kind": "product",
+  "title": "Fidget toy",
+  "keywords": "fidget toy for adults"
+ },
+ {
+  "key": "jigsaw-puzzle",
+  "kind": "product",
+  "title": "Jigsaw puzzle",
+  "keywords": "1000 piece jigsaw puzzle landscape"
+ },
+ {
+  "key": "desk-timer",
+  "kind": "product",
+  "title": "Desk timer",
+  "keywords": "visual desk timer"
+ }
+]
