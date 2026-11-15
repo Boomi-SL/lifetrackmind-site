@@ -172,7 +172,7 @@
   /* ---------- 3. Mirror doodle ---------- */
   GAMES.doodle = {
     name: 'Mirror doodle',
-    help: 'Draw anywhere with your finger or mouse. Your line repeats around the centre.',
+    help: 'Draw anywhere with your finger or mouse. Your line repeats around the center.',
     start: function () {
       var COLORS = [['Teal', '#0F4C4A'], ['Sage', '#5E8D7F'], ['Gold', '#B8872A'], ['Clay', '#B4583A']];
       var PAPER = '#FAF7EF';
@@ -255,7 +255,7 @@
 
       var swatches = el('div', 'doodle-swatches');
       swatches.setAttribute('role', 'group');
-      swatches.setAttribute('aria-label', 'Line colour');
+      swatches.setAttribute('aria-label', 'Line color');
       COLORS.forEach(function (pair, i) {
         var swatch = button('doodle-swatch', '', function () {
           color = pair[1];

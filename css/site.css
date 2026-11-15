@@ -235,3 +235,13 @@ html{scroll-behavior:smooth}
 @media (max-width:480px){.game-stage{padding:20px}.sort-row{gap:5px}}
 @media (prefers-reduced-motion:reduce){.game-tile,.sort-tile,.echo-pad{transition:none}.game-tile:hover{transform:none}.ripple{width:140px;height:140px;animation:ltm-ripple-still 3s linear forwards}}
 @keyframes ltm-ripple-still{from{opacity:.8}to{opacity:0}}
+
+/* Questions */
+.faq{display:flex;flex-direction:column}
+.faq-item{border-top:1px solid #DCD5C3}
+.faq-item:last-child{border-bottom:1px solid #DCD5C3}
+.faq-item summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:16px;padding:20px 0;font-size:20px;font-weight:600;letter-spacing:-.01em;min-height:44px}
+.faq-item summary::-webkit-details-marker{display:none}
+.faq-item summary::after{content:"+";font-size:26px;font-weight:400;line-height:1;color:#0F4C4A;flex:none}
+.faq-item[open] summary::after{content:"\2212"}
+.faq-item p{margin:0;padding:0 0 22px;color:#4B625F;max-width:680px}
