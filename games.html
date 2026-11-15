@@ -4,20 +4,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Calm games | Life Track Mind</title>
-<meta name="description" content="Two slow, quiet games with no timer and no score to beat: bubble pop and memory match.">
+<meta name="description" content="Six slow, quiet games with no timer and no score to beat: bubble pop, memory match, mirror doodle, shade sort, echo and ripple pond.">
 <meta name="theme-color" content="#FAF7EF">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Life Track Mind">
 <meta property="og:title" content="Calm games | Life Track Mind">
-<meta property="og:description" content="Two slow, quiet games with no timer and no score to beat: bubble pop and memory match.">
+<meta property="og:description" content="Six slow, quiet games with no timer and no score to beat: bubble pop, memory match, mirror doodle, shade sort, echo and ripple pond.">
 <meta property="og:url" content="https://boomi-sl.github.io/lifetrackmind-site/games.html">
 <meta property="og:image" content="https://boomi-sl.github.io/lifetrackmind-site/assets/share.png">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="assets/favicon.svg?v=9" type="image/svg+xml">
+<link rel="icon" href="assets/favicon.svg?v=10" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap">
-<link rel="stylesheet" href="css/site.css?v=9">
+<link rel="stylesheet" href="css/site.css?v=10">
 </head>
 <body>
 <div style="font-family: 'Manrope', system-ui, sans-serif; color: #12302E; background: #FAF7EF; line-height: 1.6; font-size: 17px">
@@ -43,20 +43,54 @@
 <div class="tool-wrap game-wrap">
 <p class="tool-kicker">Calm games</p>
 <h1 class="tool-title">Something slow for busy hands</h1>
-<p class="tool-lead">No timer, no score to beat, nothing to win. Play for as long as it helps.</p>
-<section class="game" aria-labelledby="bubble-title">
-<h2 id="bubble-title" class="game-title">Bubble pop</h2>
-<p class="tool-note">Tap a bubble to pop it. More will drift up.</p>
-<div id="bubble-field" class="bubble-field"></div>
-<p id="bubble-count" class="game-status" role="status">0 bubbles popped</p>
-</section>
-<section class="game" aria-labelledby="match-title">
-<h2 id="match-title" class="game-title">Memory match</h2>
-<p id="match-status" class="game-status" role="status">Find the six pairs. Take your time.</p>
-<div id="match-board" class="match-board"></div>
-<div class="tool-actions">
-<button type="button" id="match-reset" class="quiz-back">Shuffle and start again</button>
+<p class="tool-lead">Six small games. No timer, no score to beat, nothing to win. Play for as long as it helps.</p>
+<ul id="game-menu" class="game-menu">
+<li class="game-tile">
+<div class="game-art game-art-a" aria-hidden="true"><svg viewBox="0 0 80 80" width="96" height="96" stroke="#0F4C4A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="26" cy="38" r="14"></circle><circle cx="52" cy="24" r="9"></circle><circle cx="56" cy="50" r="6"></circle><path d="M20 32a8 8 0 0 1 6-6"></path></svg></div>
+<h2 class="game-tile-title">Bubble pop</h2>
+<p class="game-tile-text">Pop slow, drifting bubbles. More always come.</p>
+<button type="button" class="quiz-next" data-game="bubble" aria-label="Play Bubble pop">Play</button>
+</li>
+<li class="game-tile">
+<div class="game-art game-art-b" aria-hidden="true"><svg viewBox="0 0 80 80" width="96" height="96" stroke="#0F4C4A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="10" y="14" width="24" height="24" rx="5"></rect><rect x="46" y="14" width="24" height="24" rx="5"></rect><rect x="10" y="46" width="24" height="24" rx="5"></rect><rect x="46" y="46" width="24" height="24" rx="5"></rect><path d="M58 22l1.6 3.3 3.6.5-2.6 2.5.6 3.6-3.2-1.7-3.2 1.7.6-3.6-2.6-2.5 3.6-.5z"></path><path d="M22 54l1.6 3.3 3.6.5-2.6 2.5.6 3.6-3.2-1.7-3.2 1.7.6-3.6-2.6-2.5 3.6-.5z"></path></svg></div>
+<h2 class="game-tile-title">Memory match</h2>
+<p class="game-tile-text">Find six pairs of quiet symbols at your own pace.</p>
+<button type="button" class="quiz-next" data-game="match" aria-label="Play Memory match">Play</button>
+</li>
+<li class="game-tile">
+<div class="game-art game-art-c" aria-hidden="true"><svg viewBox="0 0 80 80" width="96" height="96" stroke="#0F4C4A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="40" cy="40" r="6"></circle><path d="M40 34c-8-10-8-18 0-24 8 6 8 14 0 24z"></path><path d="M40 46c8 10 8 18 0 24-8-6-8-14 0-24z"></path><path d="M34 40c-10 8-18 8-24 0 6-8 14-8 24 0z"></path><path d="M46 40c10-8 18-8 24 0-6 8-14 8-24 0z"></path></svg></div>
+<h2 class="game-tile-title">Mirror doodle</h2>
+<p class="game-tile-text">Draw one line and watch it bloom into a pattern.</p>
+<button type="button" class="quiz-next" data-game="doodle" aria-label="Play Mirror doodle">Play</button>
+</li>
+<li class="game-tile">
+<div class="game-art game-art-d" aria-hidden="true"><svg viewBox="0 0 80 80" width="96" height="96" stroke="#0F4C4A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="8" y="26" width="12" height="28" rx="3" fill="#E4ECE6"></rect><rect x="24" y="26" width="12" height="28" rx="3" fill="#A3C2B4"></rect><rect x="40" y="26" width="12" height="28" rx="3" fill="#5E8D7F"></rect><rect x="56" y="26" width="12" height="28" rx="3" fill="#0F4C4A"></rect></svg></div>
+<h2 class="game-tile-title">Shade sort</h2>
+<p class="game-tile-text">Put seven shades in order, lightest to darkest.</p>
+<button type="button" class="quiz-next" data-game="sort" aria-label="Play Shade sort">Play</button>
+</li>
+<li class="game-tile">
+<div class="game-art game-art-a" aria-hidden="true"><svg viewBox="0 0 80 80" width="96" height="96" stroke="#0F4C4A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="12" y="12" width="24" height="24" rx="6" fill="#0F4C4A"></rect><rect x="44" y="12" width="24" height="24" rx="6"></rect><rect x="12" y="44" width="24" height="24" rx="6"></rect><rect x="44" y="44" width="24" height="24" rx="6"></rect></svg></div>
+<h2 class="game-tile-title">Echo</h2>
+<p class="game-tile-text">Watch the tiles light up, then repeat the pattern.</p>
+<button type="button" class="quiz-next" data-game="echo" aria-label="Play Echo">Play</button>
+</li>
+<li class="game-tile">
+<div class="game-art game-art-b" aria-hidden="true"><svg viewBox="0 0 80 80" width="96" height="96" stroke="#0F4C4A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"><ellipse cx="40" cy="42" rx="6" ry="3"></ellipse><ellipse cx="40" cy="42" rx="16" ry="8"></ellipse><ellipse cx="40" cy="42" rx="28" ry="14"></ellipse><path d="M40 12v14"></path><path d="M36 22l4 4 4-4"></path></svg></div>
+<h2 class="game-tile-title">Ripple pond</h2>
+<p class="game-tile-text">Tap the water. Watch the ripples spread and fade.</p>
+<button type="button" class="quiz-next" data-game="ripple" aria-label="Play Ripple pond">Play</button>
+</li>
+</ul>
+<section id="game-stage" class="game-stage" aria-labelledby="game-name" hidden>
+<div class="game-stage-head">
+<button type="button" id="game-back" class="quiz-back">All games</button>
+<h2 id="game-name" class="game-title" tabindex="-1"></h2>
 </div>
+<p id="game-help" class="tool-note"></p>
+<div id="game-area" class="game-area"></div>
+<p id="game-status" class="game-status" role="status"></p>
+<div id="game-controls" class="tool-actions"></div>
 </section>
 <noscript><p class="tool-note">The games need JavaScript turned on in your browser.</p></noscript>
 </div>
@@ -86,6 +120,6 @@
 </footer>
 
 </div>
-<script src="js/games.js?v=9" defer></script>
+<script src="js/games.js?v=10" defer></script>
 </body>
 </html>
