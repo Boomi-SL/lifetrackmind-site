@@ -148,3 +148,9 @@ html{scroll-behavior:smooth}
 .prose .quiz-next{color:#FAF7EF}
 /* Compact header on phones */
 @media (max-width:600px){header nav{gap:0 18px!important;font-size:15px}header nav a{padding-top:8px!important;padding-bottom:8px!important}}
+
+/* Amazon images */
+.shelf-cover.has-img{padding:0;background:#FFFFFF;border:1px solid #E3DCCB;overflow:hidden;align-items:center;justify-content:center}
+.shelf-cover.has-img img{width:100%;height:100%;object-fit:contain;display:block}
+.shop-photo{aspect-ratio:4/3;background:#FFFFFF;border:1px solid #E3DCCB;border-radius:12px;margin-bottom:8px;overflow:hidden;display:flex;align-items:center;justify-content:center}
+.shop-photo img{width:100%;height:100%;object-fit:contain;display:block}
