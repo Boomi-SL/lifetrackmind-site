@@ -7,6 +7,9 @@ Live at https://boomi-sl.github.io/lifetrackmind-site/
 - `index.html`: homepage with the overthinker quiz and the stress check-in
 - `breathe.html`: breathing timer
 - `brain-dump.html`: brain dump tool
+- `games.html`: calm games (bubble pop, memory match)
+- `sessions.html`: guided step-by-step sessions
+- `lessons.html` and `lesson-1-…` to `lesson-7-…`: the seven free lessons
 - `books.html`: bookshelf (Amazon links)
 - `shop.html`: calm shop (Amazon links)
 - `privacy.html`, `terms.html`, `disclosure.html`, `contact.html`: site information
