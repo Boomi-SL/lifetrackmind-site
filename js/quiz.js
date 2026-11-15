@@ -244,6 +244,14 @@
     root.appendChild(steps);
     root.appendChild(el('p', 'quiz-note', 'This quiz is for self-reflection. It is not a diagnosis.'));
 
+    var invite = el('p', 'quiz-note');
+    var inviteLink = el('a', null, 'Get one calm idea by email each week');
+    inviteLink.href = 'https://ec26ed0f.sibforms.com/serve/MUIFAFTcbYNpRdonEmTCANIgdPMC4ThoHqbe9gODue0bQ-n0B-0doMMNtR6p6M8ZCU3oc1b0rMUQQfYWsXBm5BtXGlnKwTMp0zMedDMi1lXp0PeVjc8ilqpLJ3s06oIxH6azlusO7bekuiyw_5OMyWxu2vS1opbkAkqjWpfYcz1XnJePKDb7PhfLMacetBlx3iw3FC-mAKphHRzZ2A==';
+    inviteLink.target = '_blank';
+    inviteLink.rel = 'noopener';
+    invite.appendChild(inviteLink);
+    root.appendChild(invite);
+
     var actions = el('div', 'quiz-actions');
     var again = el('button', 'quiz-back', 'Take it again');
     again.type = 'button';
