@@ -111,3 +111,30 @@ html{scroll-behavior:smooth}
 .dump-item{border-top:1px solid #E3DCCB;padding-top:10px;display:flex;flex-direction:column;align-items:flex-start;gap:2px}
 .dump-move{font:inherit;font-size:14px;min-height:44px;padding:0;border:0;background:none;color:#0F4C4A;text-decoration:underline;cursor:pointer}
 [hidden]{display:none!important}
+
+/* Bookshelf and shop */
+.shelf-wrap{max-width:1160px;margin:0 auto;padding:72px 24px 104px;display:flex;flex-direction:column;gap:72px}
+.shelf-head{display:flex;flex-direction:column;gap:18px;max-width:760px}
+.shelf-disclosure{margin:0;font-size:15px;color:#4B625F;background:#F1F5F1;border-radius:12px;padding:12px 16px;align-self:flex-start}
+.shelf-chips{display:flex;flex-wrap:wrap;gap:10px}
+.shelf-chip{text-decoration:none;display:inline-flex;align-items:center;min-height:44px;padding:0 20px;border-radius:999px;border:1.5px solid #0F4C4A;font-weight:600;box-sizing:border-box}
+.shelf-chip:hover{background:#0F4C4A;color:#FAF7EF}
+.shelf-group{display:flex;flex-direction:column;gap:10px;scroll-margin-top:24px}
+.shelf-group-title{font-size:clamp(26px,3vw,36px);line-height:1.15}
+.shelf-group-lead{margin:0 0 18px;color:#4B625F}
+.shelf-grid{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:36px 24px}
+.shelf-card{display:flex;flex-direction:column;gap:6px}
+.shelf-cover{aspect-ratio:3/4;border-radius:6px 14px 14px 6px;padding:20px 18px;display:flex;flex-direction:column;justify-content:space-between;gap:12px;margin-bottom:10px;box-sizing:border-box;border-left:6px solid rgba(18,48,46,.18)}
+.shelf-cover-a{background:#0F4C4A;color:#FAF7EF}
+.shelf-cover-b{background:#C5D9CE;color:#12302E}
+.shelf-cover-c{background:#E3B955;color:#12302E}
+.shelf-cover-d{background:#F1E9D6;color:#12302E}
+.shelf-cover-title{font-weight:700;font-size:20px;line-height:1.15;letter-spacing:-.02em;overflow-wrap:anywhere}
+.shelf-cover-author{font-size:13px;line-height:1.3}
+.shelf-name{font-size:18px;line-height:1.25}
+.shelf-author{margin:0;font-size:14px;color:#4B625F}
+.shelf-why{margin:0;font-size:15px;color:#4B625F;flex:1}
+.shelf-link{font-weight:600;padding:10px 0;align-self:flex-start}
+.shop-grid{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:20px}
+.shop-card{background:#FAF7EF;border:1px solid #E3DCCB;border-radius:20px;padding:26px 24px 16px;display:flex;flex-direction:column;gap:8px}
+@media (max-width:480px){.shelf-grid{grid-template-columns:repeat(2,1fr);gap:28px 16px}.shelf-cover{padding:14px 12px}.shelf-cover-title{font-size:16px}}
