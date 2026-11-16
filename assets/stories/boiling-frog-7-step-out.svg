@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A person steps out of an open ring and walks toward the light">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="23" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="1010" cy="170" r="74" fill="#F6E3B8" stroke="none"/>
+<ellipse cx="600" cy="640" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 640c220-8 440 6 660-2s250 4 360 0"/>
+<ellipse cx="330" cy="480" rx="270" ry="210" stroke="#C5D9CE" stroke-width="4" stroke-dasharray="14 16"/>
+<path d="M452 372A190 168 0 1 0 452 608" stroke="#12302E"/>
+<path d="M452 372l40-34M452 608l44 26" stroke="#12302E"/>
+<path d="M610 490c-14 40-14 80-4 110l-40 40M650 580l36 58h26" />
+<path d="M596 390c-16 40-12 90 10 132h60c16-44 14-92-6-132z" fill="#C5D9CE"/>
+<circle cx="644" cy="340" r="52" fill="#F3E3CF"/><path d="M600 322c10-40 76-44 92-6"/>
+<circle cx="652" cy="342" r="4" fill="#12302E"/><circle cx="680" cy="344" r="4" fill="#12302E"/><path d="M652 366c8 8 22 8 30 0"/>
+<path d="M658 414c40 4 70-10 96-40M600 414c-30 24-40 56-34 90"/>
+<path d="M730 640c90-30 60-110 150-150s70-150 110-230" stroke="#B8872A" stroke-width="5" stroke-dasharray="2 18"/>
+<path d="M890 330l70-78" stroke="#B8872A" stroke-width="6"/><path d="M916 246l48 4-2 46" stroke="#B8872A" stroke-width="6"/>
+<path d="M1080 640v-80"/><path d="M1080 596c-32-8-46-32-40-60c32 6 46 28 40 60z" fill="#C5D9CE"/><path d="M1080 566c28-12 40-36 34-62c-30 10-40 34-34 62z" fill="#C5D9CE"/>
+</g>
+</svg>
