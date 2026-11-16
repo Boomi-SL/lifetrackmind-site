@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A potter stands beside two clay pots that look almost the same">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="97" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M430 650v-130M1090 650v-130"/><path d="M400 520h720" stroke-width="7"/><path d="M400 520h720v22h-720z" fill="#E2CFAE"/>
+<g transform="translate(620 518) scale(0.95 0.95)"><path d="M0 0c-30 0-60-6-70-20c-60-60-60-130 30-190h80c90 60 90 130 30 190c-10 14-40 20-70 20z" fill="#E3B79A"/>
+<path d="M-48 -214c-10-10-10-24 0-30h96c10 6 10 20 0 30z" fill="#E3B79A"/>
+<circle cx="-18" cy="-122" r="4.5" fill="#12302E"/><circle cx="18" cy="-122" r="4.5" fill="#12302E"/><path d="M-14 -96c8 9 20 9 28 0"/></g>
+<g transform="translate(900 518) scale(0.95 0.95)"><path d="M0 0c-30 0-60-6-70-20c-60-60-60-130 30-190h80c90 60 90 130 30 190c-10 14-40 20-70 20z" fill="#E3B79A"/>
+<path d="M-48 -214c-10-10-10-24 0-30h96c10 6 10 20 0 30z" fill="#E3B79A"/>
+<circle cx="-18" cy="-122" r="4.5" fill="#12302E"/><circle cx="18" cy="-122" r="4.5" fill="#12302E"/><path d="M-14 -96c8 9 20 9 28 0"/></g>
+<path d="M206 540l-8 108M254 540l8 108"/>
+<path d="M182 410c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#C5D9CE"/>
+<circle cx="230" cy="358" r="52" fill="#F3E3CF"/><path d="M186 340c10-40 76-44 92-6"/>
+<circle cx="230" cy="358" r="4" fill="#12302E"/><circle cx="260" cy="358" r="4" fill="#12302E"/>
+<path d="M230 382c8 8 22 8 30 0"/>
+<path d="M274 420c50 10 90 30 120 60M186 420c-30 30-40 70-34 110"/>
+<path d="M190 440h80v130h-80z" fill="#FAF7EF"/>
+<path d="M740 330h40M740 350h40" stroke="#B8872A" stroke-width="6"/>
+</g>
+</svg>
