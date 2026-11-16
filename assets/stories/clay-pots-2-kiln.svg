@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Inside a kiln one pot stands close to the flames and the other stands farther away">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="100" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M150 650v-300c0-150 150-250 450-250s450 100 450 250v300z" fill="#F1E9D6"/><path d="M230 650v-280c0-110 130-180 370-180s370 70 370 180v280z" fill="#FBEFD9"/>
+<path d="M300 644c-52.0 -26.0 -44.2 -91.0 0 -156.0c44.2 65.0 52.0 130.0 0 156.0z" fill="#F0B95A" stroke="#B8872A"/>
+<path d="M380 644c-40.0 -20.0 -34.0 -70.0 0 -120.0c34.0 50.0 40.0 100.0 0 120.0z" fill="#F0B95A" stroke="#B8872A"/>
+<path d="M340 644c-28.0 -14.0 -23.799999999999997 -49.0 0 -84.0c23.799999999999997 35.0 28.0 70.0 0 84.0z" fill="#F0B95A" stroke="#B8872A"/>
+<g transform="translate(520 646) scale(0.9 0.9)"><path d="M0 0c-30 0-60-6-70-20c-60-60-60-130 30-190h80c90 60 90 130 30 190c-10 14-40 20-70 20z" fill="#C98F6E"/>
+<path d="M-48 -214c-10-10-10-24 0-30h96c10 6 10 20 0 30z" fill="#C98F6E"/>
+<circle cx="-18" cy="-122" r="4.5" fill="#12302E"/><circle cx="18" cy="-122" r="4.5" fill="#12302E"/><ellipse cx="0" cy="-90" rx="7" ry="9" fill="#12302E"/></g>
+<g transform="translate(840 646) scale(0.9 0.9)"><path d="M0 0c-30 0-60-6-70-20c-60-60-60-130 30-190h80c90 60 90 130 30 190c-10 14-40 20-70 20z" fill="#E3B79A"/>
+<path d="M-48 -214c-10-10-10-24 0-30h96c10 6 10 20 0 30z" fill="#E3B79A"/>
+<circle cx="-18" cy="-122" r="4.5" fill="#12302E"/><circle cx="18" cy="-122" r="4.5" fill="#12302E"/><path d="M-14 -96c8 9 20 9 28 0"/></g>
+<path d="M440 330c-14-20 14-34 0-56M600 330c-14-20 14-34 0-56" stroke="#D9773F" stroke-width="4.5"/>
+<path d="M600 420c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+</g>
+</svg>

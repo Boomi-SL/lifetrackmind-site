@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="At a market stall the smooth pot is admired while the scarred pot looks at it sadly">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="103" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M140 650v-130M1060 650v-130"/><path d="M110 520h980v22h-980z" fill="#E2CFAE"/>
+<path d="M110 140h980l-40 70h-900z" fill="#E4ECE6"/><path d="M150 210v310M1050 210v310" stroke-width="4"/>
+<g transform="translate(760 518) scale(0.95 0.95)"><path d="M0 0c-30 0-60-6-70-20c-60-60-60-130 30-190h80c90 60 90 130 30 190c-10 14-40 20-70 20z" fill="#E3B79A"/>
+<path d="M-48 -214c-10-10-10-24 0-30h96c10 6 10 20 0 30z" fill="#E3B79A"/>
+<circle cx="-18" cy="-122" r="4.5" fill="#12302E"/><circle cx="18" cy="-122" r="4.5" fill="#12302E"/><path d="M-14 -96c8 9 20 9 28 0"/></g>
+<path d="M636 300h28M650 286v28M641 291l18 18M641 309l18-18" stroke="#B8872A" stroke-width="4"/>
+<path d="M866 280h28M880 266v28M871 271l18 18M871 289l18-18" stroke="#B8872A" stroke-width="4"/>
+<path d="M846 420h28M860 406v28M851 411l18 18M851 429l18-18" stroke="#B8872A" stroke-width="4"/>
+<path d="M740 240c-10-14 6-28 16-14c10-14 26 0 16 14l-16 18z" fill="#F6E3B8" stroke="#B8872A" stroke-width="4"/>
+<g transform="translate(380 518) scale(0.95 0.95)"><path d="M0 0c-30 0-60-6-70-20c-60-60-60-130 30-190h80c90 60 90 130 30 190c-10 14-40 20-70 20z" fill="#C98F6E"/>
+<path d="M-48 -214c-10-10-10-24 0-30h96c10 6 10 20 0 30z" fill="#C98F6E"/>
+<circle cx="-18" cy="-122" r="4.5" fill="#12302E"/><circle cx="18" cy="-122" r="4.5" fill="#12302E"/><path d="M-14 -88c8-9 20-9 28 0"/><path d="M40 -180l14 22-16 12 18 22" stroke="#12302E" stroke-width="4"/><path d="M-70 -60c10-10 24-10 34 0M-60 -40c8-6 18-6 26 0" stroke="#8C5A40" stroke-width="4"/><path d="M-50 -214c10 12 30 16 50 10" stroke="#8C5A40" stroke-width="5"/></g>
+<path d="M470 400c40-30 110-40 180-20" stroke="#0F4C4A" stroke-width="4" stroke-dasharray="4 16"/>
+</g>
+</svg>
