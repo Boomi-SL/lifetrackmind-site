@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="The sack lies torn open and the snake and the mongoose leave in different directions">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="92" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="600" cy="170" r="80" fill="#F6E3B8" stroke="none"/>
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M470 650c-30-60-10-130 50-150l40 50 40-60 40 60 50-40c50 30 60 90 30 140z" fill="#F1E9D6"/><path d="M500 610c40 10 80 10 120 0" stroke="#C9B99A" stroke-width="4"/>
+<path d="M420 620 c-50-40-90 30-140 0 s-70-50-120-20" stroke="#12302E" stroke-width="34"/><path d="M420 620 c-50-40-90 30-140 0 s-70-50-120-20" stroke="#BFD9A0" stroke-width="24"/>
+<ellipse cx="140" cy="590" rx="34" ry="26" fill="#BFD9A0"/><circle cx="128" cy="582" r="4.5" fill="#12302E"/>
+<path d="M106 594l-22 0l-10 -8M84 594l-10 8" stroke="#C7624F" stroke-width="4"/>
+<g transform="translate(900 644) scale(0.9 0.9)"><path d="M-80 -40c-60 0-100-30-110-80" stroke="#12302E" stroke-width="26"/><path d="M-80 -40c-60 0-100-30-110-80" stroke="#D8BFA0" stroke-width="16"/>
+<path d="M-50 -14v24M-20 -10v22M40 -10v22M66 -14v24"/>
+<ellipse cx="0" cy="-44" rx="96" ry="38" fill="#D8BFA0"/>
+<circle cx="84" cy="-104" r="12" fill="#D8BFA0"/>
+<path d="M70 -60c0-34 30-48 56-36l48 26c-10 22-34 32-60 28z" fill="#D8BFA0"/>
+<circle cx="172" cy="-70" r="5" fill="#12302E"/><circle cx="114" cy="-76" r="4.5" fill="#12302E"/></g>
+<path d="M300 500l-60-20M330 460l-40-40M800 480l50-30M770 440l30-44" stroke="#B8872A" stroke-width="4"/>
+</g>
+</svg>

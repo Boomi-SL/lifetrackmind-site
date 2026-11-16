@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="One person reaches down from a step to help another person up">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="68" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="1010" cy="150" r="74" fill="#F6E3B8" stroke="none"/>
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M560 650v-150h540v150z" fill="#E4ECE6" stroke="none"/><path d="M560 650v-150h540"/>
+<path d="M306 540l-8 108M354 540l8 108"/>
+<path d="M282 410c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#C5D9CE"/>
+<circle cx="330" cy="358" r="52" fill="#F3E3CF"/><path d="M286 340c10-40 76-44 92-6"/>
+<circle cx="330" cy="358" r="4" fill="#12302E"/><circle cx="360" cy="358" r="4" fill="#12302E"/>
+<path d="M330 382c8 8 22 8 30 0"/>
+<path d="M374 420c50-30 90-60 130-70M286 420c-30 30-40 70-34 110"/>
+<path d="M696 390l-8 108M744 390l8 108"/>
+<path d="M672 260c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#F1E9D6"/>
+<circle cx="720" cy="208" r="52" fill="#F3E3CF"/><path d="M676 190c10-40 76-44 92-6"/>
+<circle cx="692" cy="208" r="4" fill="#12302E"/><circle cx="722" cy="208" r="4" fill="#12302E"/>
+<path d="M692 232c8 8 22 8 30 0"/>
+<path d="M676 270c-50 20-100 50-150 76M764 270c30 30 40 70 34 110"/>
+<path d="M500 330l-10-30M530 320l4-32M470 350l-28-16" stroke="#B8872A" stroke-width="4"/>
+</g>
+</svg>

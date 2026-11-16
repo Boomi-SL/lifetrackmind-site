@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Two woodcutters stand at the edge of a forest at sunrise holding their axes">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="71" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M460 650a140 140 0 0 1 280 0z" fill="#F6E3B8" stroke="none"/>
+<g transform="translate(120 650) scale(0.9 0.9)"><path d="M-18 0v-150h36v150z" fill="#E2CFAE"/>
+<circle cx="-50" cy="-190" r="60" fill="#C5D9CE"/><circle cx="50" cy="-190" r="60" fill="#C5D9CE"/><circle cx="0" cy="-250" r="70" fill="#C5D9CE"/></g>
+<g transform="translate(1080 650) scale(0.9 0.9)"><path d="M-18 0v-150h36v150z" fill="#E2CFAE"/>
+<circle cx="-50" cy="-190" r="60" fill="#C5D9CE"/><circle cx="50" cy="-190" r="60" fill="#C5D9CE"/><circle cx="0" cy="-250" r="70" fill="#C5D9CE"/></g>
+<g transform="translate(940 650) scale(0.7 0.7)"><path d="M-18 0v-150h36v150z" fill="#E2CFAE"/>
+<circle cx="-50" cy="-190" r="60" fill="#C5D9CE"/><circle cx="50" cy="-190" r="60" fill="#C5D9CE"/><circle cx="0" cy="-250" r="70" fill="#C5D9CE"/></g>
+<g transform="translate(250 650) scale(0.7 0.7)"><path d="M-18 0v-150h36v150z" fill="#E2CFAE"/>
+<circle cx="-50" cy="-190" r="60" fill="#C5D9CE"/><circle cx="50" cy="-190" r="60" fill="#C5D9CE"/><circle cx="0" cy="-250" r="70" fill="#C5D9CE"/></g>
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M436 540l-8 108M484 540l8 108"/>
+<path d="M412 410c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#C5D9CE"/>
+<circle cx="460" cy="358" r="52" fill="#F3E3CF"/><path d="M416 340c10-40 76-44 92-6"/>
+<circle cx="460" cy="358" r="4" fill="#12302E"/><circle cx="490" cy="358" r="4" fill="#12302E"/>
+<path d="M460 382c8 8 22 8 30 0"/>
+<path d="M416 420c-30 30-40 70-34 110M504 420c20 30 26 70 20 110"/>
+<g transform="rotate(-8 378 600)"><path d="M378 600v-170" stroke="#9A7B4F" stroke-width="10"/><path d="M372 424h12" /><path d="M382 422c40-16 60 4 66 34c-22 12-46 12-66 4z" fill="#B9C2C2"/></g>
+<path d="M736 540l-8 108M784 540l8 108"/>
+<path d="M712 410c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#F1E9D6"/>
+<circle cx="760" cy="358" r="52" fill="#F3E3CF"/><path d="M716 340c10-40 76-44 92-6"/>
+<circle cx="732" cy="358" r="4" fill="#12302E"/><circle cx="762" cy="358" r="4" fill="#12302E"/>
+<path d="M732 382c8 8 22 8 30 0"/>
+<path d="M804 420c30 30 40 70 34 110M716 420c-20 30-26 70-20 110"/>
+<g transform="rotate(8 842 600)"><path d="M842 600v-170" stroke="#9A7B4F" stroke-width="10"/><path d="M836 424h12" /><path d="M846 422c40-16 60 4 66 34c-22 12-46 12-66 4z" fill="#B9C2C2"/></g>
+</g>
+</svg>

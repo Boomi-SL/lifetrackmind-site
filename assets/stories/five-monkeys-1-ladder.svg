@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Five monkeys look up at bananas hanging above a ladder">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="41" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M556 650L570 170M644 650L630 170"/>
+<path d="M559.25 600.0h81.5"/>
+<path d="M561.25 520.0h77.5"/>
+<path d="M563.25 440.0h73.5"/>
+<path d="M565.25 360.0h69.5"/>
+<path d="M567.25 280.0h65.5"/>
+<path d="M569.25 200.0h61.5"/>
+<path d="M600 0v70" stroke-width="4"/>
+<path d="M594 70c-40 20-50 60-30 96c14-30 30-56 44-90z" fill="#F4D77A" stroke="#B8872A"/>
+<path d="M600 70c-10 36-6 76 22 100c4-34 2-66-8-100z" fill="#F4D77A" stroke="#B8872A"/>
+<path d="M606 70c26 20 50 50 50 90c-26-20-46-52-58-88z" fill="#F4D77A" stroke="#B8872A"/>
+<g transform="translate(180 650) scale(0.8 0.8)"><path d="M46 -24c50 6 70-30 50-58s-50-6-34 14" />
+<ellipse cx="0" cy="-70" rx="54" ry="66" fill="#D9C3A5"/>
+<circle cx="-50" cy="-178" r="16" fill="#D9C3A5"/><circle cx="50" cy="-178" r="16" fill="#D9C3A5"/>
+<circle cx="0" cy="-172" r="48" fill="#D9C3A5"/><ellipse cx="0" cy="-162" rx="32" ry="28" fill="#F3E3CF"/>
+<circle cx="-12" cy="-170" r="4" fill="#12302E"/><circle cx="12" cy="-170" r="4" fill="#12302E"/><path d="M-12 -150c8 8 16 8 24 0"/><path d="M-44 -100c-20 20-24 44-18 66M44 -100c20 20 24 44 18 66"/></g>
+<g transform="translate(350 650) scale(0.8 0.8)"><path d="M46 -24c50 6 70-30 50-58s-50-6-34 14" />
+<ellipse cx="0" cy="-70" rx="54" ry="66" fill="#D9C3A5"/>
+<circle cx="-50" cy="-178" r="16" fill="#D9C3A5"/><circle cx="50" cy="-178" r="16" fill="#D9C3A5"/>
+<circle cx="0" cy="-172" r="48" fill="#D9C3A5"/><ellipse cx="0" cy="-162" rx="32" ry="28" fill="#F3E3CF"/>
+<circle cx="-12" cy="-170" r="4" fill="#12302E"/><circle cx="12" cy="-170" r="4" fill="#12302E"/><path d="M-12 -150c8 8 16 8 24 0"/><path d="M-40 -108c-24-30-28-70-20-104M40 -108c24-30 28-70 20-104"/></g>
+<g transform="translate(830 650) scale(-0.8 0.8)"><path d="M46 -24c50 6 70-30 50-58s-50-6-34 14" />
+<ellipse cx="0" cy="-70" rx="54" ry="66" fill="#D9C3A5"/>
+<circle cx="-50" cy="-178" r="16" fill="#D9C3A5"/><circle cx="50" cy="-178" r="16" fill="#D9C3A5"/>
+<circle cx="0" cy="-172" r="48" fill="#D9C3A5"/><ellipse cx="0" cy="-162" rx="32" ry="28" fill="#F3E3CF"/>
+<circle cx="-12" cy="-170" r="4" fill="#12302E"/><circle cx="12" cy="-170" r="4" fill="#12302E"/><path d="M-12 -150c8 8 16 8 24 0"/><path d="M-44 -100c-20 20-24 44-18 66M44 -100c20 20 24 44 18 66"/></g>
+<g transform="translate(980 650) scale(-0.8 0.8)"><path d="M46 -24c50 6 70-30 50-58s-50-6-34 14" />
+<ellipse cx="0" cy="-70" rx="54" ry="66" fill="#D9C3A5"/>
+<circle cx="-50" cy="-178" r="16" fill="#D9C3A5"/><circle cx="50" cy="-178" r="16" fill="#D9C3A5"/>
+<circle cx="0" cy="-172" r="48" fill="#D9C3A5"/><ellipse cx="0" cy="-162" rx="32" ry="28" fill="#F3E3CF"/>
+<circle cx="-12" cy="-170" r="4" fill="#12302E"/><circle cx="12" cy="-170" r="4" fill="#12302E"/><path d="M-12 -150c8 8 16 8 24 0"/><path d="M-40 -108c-24-30-28-70-20-104M40 -108c24-30 28-70 20-104"/></g>
+<g transform="translate(1100 650) scale(-0.7 0.7)"><path d="M46 -24c50 6 70-30 50-58s-50-6-34 14" />
+<ellipse cx="0" cy="-70" rx="54" ry="66" fill="#D9C3A5"/>
+<circle cx="-50" cy="-178" r="16" fill="#D9C3A5"/><circle cx="50" cy="-178" r="16" fill="#D9C3A5"/>
+<circle cx="0" cy="-172" r="48" fill="#D9C3A5"/><ellipse cx="0" cy="-162" rx="32" ry="28" fill="#F3E3CF"/>
+<circle cx="-12" cy="-170" r="4" fill="#12302E"/><circle cx="12" cy="-170" r="4" fill="#12302E"/><path d="M-10 -146h20"/><path d="M-44 -100c-20 20-24 44-18 66M44 -100c20 20 24 44 18 66"/></g>
+</g>
+</svg>
