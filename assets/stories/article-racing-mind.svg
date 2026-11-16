@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A person lies awake in bed at night with a tangle of thoughts above their head">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="31" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="0" y="0" width="1200" height="760" fill="#EEF1EC" stroke="none"/>
+<path d="M980 110a70 70 0 1 0 60 110a56 56 0 0 1-60-110z" fill="#F6E3B8" stroke="#B8872A" stroke-width="4"/>
+<path d="M810 90h20M820 80v20" stroke="#B8872A" stroke-width="4"/>
+<path d="M1090 300h20M1100 290v20" stroke="#B8872A" stroke-width="4"/>
+<path d="M690 170h20M700 160v20" stroke="#B8872A" stroke-width="4"/>
+<path d="M140 120h20M150 110v20" stroke="#B8872A" stroke-width="4"/>
+<path d="M290 70h20M300 60v20" stroke="#B8872A" stroke-width="4"/>
+<ellipse cx="600" cy="660" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 660c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M150 660v-250M1010 660v-150"/><path d="M150 560h860"/>
+<path d="M150 500h860v60h-860z" fill="#FAF7EF"/>
+<path d="M190 500c-10-50 20-76 80-76h70c50 0 70 30 60 76z" fill="#FFFFFF"/>
+<circle cx="330" cy="440" r="52" fill="#F3E3CF"/><path d="M286 424c10-40 76-44 92-6"/>
+<circle cx="318" cy="440" r="7" fill="#FAF7EF" stroke-width="4"/><circle cx="350" cy="440" r="7" fill="#FAF7EF" stroke-width="4"/><circle cx="318" cy="440" r="2.5" fill="#12302E"/><circle cx="350" cy="440" r="2.5" fill="#12302E"/><path d="M322 466h24"/>
+<path d="M392 500c40-60 140-70 260-60s240 20 358 60z" fill="#C5D9CE"/><path d="M470 470c60-10 120-8 180 0" stroke-width="4" stroke="#9DBBAD"/>
+<path d="M360 372c6-20 22-30 40-34" stroke-width="4" stroke-dasharray="2 14"/>
+<path d="M450 300c-50-60 40-130 90-70s-60 110-100 50 70-120 130-60-40 130-90 80 30-110 100-90 50 100-20 120-110-70-40-120 130 10 110 70" stroke="#0F4C4A" stroke-width="4.5"/>
+<path d="M640 200c0-26 36-30 36-4c0 20-20 18-20 36M656 258v2M720 250l10-34M760 268l22-26" stroke="#0F4C4A" stroke-width="5"/>
+<rect x="1050" y="540" width="90" height="120" fill="#E4ECE6"/><circle cx="1095" cy="500" r="34" fill="#FAF7EF"/><path d="M1095 480v20l14 10"/>
+</g>
+</svg>
