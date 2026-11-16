@@ -116,6 +116,16 @@ def record(item):
     return {'asin': item['asin'], 'title': title_of(item), 'url': url, 'image': image}
 
 
+def refused(status, text):
+    """Amazon turned the request down. Not being eligible yet is a wait, not a fault."""
+    if 'AssociateNotEligible' in text:
+        print('::notice title=Waiting for Amazon::Sign-in worked, but Amazon has not given this Associates account product data access yet. '
+              'It needs 10 qualifying sales in the past 30 days and can take up to 48 hours after a credential is created. '
+              'Nothing was changed; the site keeps showing its own drawings and covers.')
+        sys.exit(0)
+    fail('Amazon refused the request (HTTP %s): %s' % (status, text[:400]))
+
+
 def looks_ineligible(status, text):
     return status in (401, 403) or 'NotEligible' in text or 'AccessDenied' in text
 
@@ -152,7 +162,7 @@ def main():
         batch = asins[start:start + 10]
         status, data, text = call(token, '/catalog/v1/getItems', dict(base, itemIds=batch, itemIdType='ASIN'))
         if first_call and status != 200 and looks_ineligible(status, text):
-            fail('Amazon refused the request (HTTP %s): %s\nIf this says the account is not eligible, API access needs 10 qualifying sales in the past 30 days and can take up to 48 hours after creating a credential.' % (status, text[:400]))
+            refused(status, text)
         first_call = False
         if status != 200:
             print('getItems failed for %s (HTTP %s): %s' % (batch, status, text[:200]))
@@ -173,7 +183,7 @@ def main():
             body = dict(base, keywords=entry['keywords'], itemCount=1)
         status, data, text = call(token, '/catalog/v1/searchItems', body)
         if first_call and status != 200 and looks_ineligible(status, text):
-            fail('Amazon refused the request (HTTP %s): %s\nIf this says the account is not eligible, API access needs 10 qualifying sales in the past 30 days and can take up to 48 hours after creating a credential.' % (status, text[:400]))
+            refused(status, text)
         first_call = False
         if status != 200:
             skipped.append('%s (HTTP %s: %s)' % (entry['key'], status, text[:120]))

@@ -33,6 +33,10 @@ jobs:
 
       - name: Save the refreshed data
         run: |
+          if [ ! -f data/amazon.json ]; then
+            echo "No Amazon data yet."
+            exit 0
+          fi
           if git diff --quiet -- data/amazon.json && git ls-files --error-unmatch data/amazon.json >/dev/null 2>&1; then
             echo "No change."
             exit 0
