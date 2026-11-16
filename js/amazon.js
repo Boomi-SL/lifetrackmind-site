@@ -52,6 +52,8 @@
         frame.setAttribute('aria-hidden', 'true');
         frame.appendChild(img);
         img.addEventListener('load', function () {
+          var art = card.querySelector('.shop-art');
+          if (art) card.removeChild(art);
           card.insertBefore(frame, card.firstChild);
         });
       }

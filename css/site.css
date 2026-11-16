@@ -245,3 +245,7 @@ html{scroll-behavior:smooth}
 .faq-item summary::after{content:"+";font-size:26px;font-weight:400;line-height:1;color:#0F4C4A;flex:none}
 .faq-item[open] summary::after{content:"\2212"}
 .faq-item p{margin:0;padding:0 0 22px;color:#4B625F;max-width:680px}
+
+/* Shop drawings */
+.shop-art{aspect-ratio:16/9;border-radius:12px;display:flex;align-items:center;justify-content:center;margin-bottom:8px}
+.shop-card{padding-top:16px}
