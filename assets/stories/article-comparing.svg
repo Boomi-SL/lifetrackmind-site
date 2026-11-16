@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A person looks at a phone showing someone else at the top of a mountain">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="34" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="660" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 660c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M276 550l-8 108M324 550l8 108"/>
+<path d="M252 420c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#C5D9CE"/>
+<circle cx="300" cy="368" r="52" fill="#F3E3CF"/><path d="M256 350c10-40 76-44 92-6"/>
+<circle cx="300" cy="368" r="4" fill="#12302E"/><circle cx="330" cy="368" r="4" fill="#12302E"/>
+<path d="M300 398c8-8 22-8 30 0"/>
+<path d="M300 420c-30 30-40 70-34 110M300 420c40 20 70 30 100 20"/>
+<path d="M120 660v-60"/><path d="M120 624c-24-6-34-24-30-44c24 4 34 22 30 44z" fill="#C5D9CE"/>
+<path d="M380 360c120-60 220-70 320-50" stroke="#0F4C4A" stroke-width="4" stroke-dasharray="4 16"/>
+<rect x="700" y="110" width="330" height="540" rx="40" fill="#FFFFFF"/><path d="M830 150h70" stroke-width="6"/>
+<path d="M730 560l120-230 70 110 40-60 50 180z" fill="#C5D9CE"/><path d="M850 330v-90"/><path d="M850 240h70l-18 22 18 22h-70z" fill="#F6E3B8" stroke="#B8872A"/>
+<path d="M756 240h28M770 226v28M761 231l18 18M761 249l18-18" stroke="#B8872A" stroke-width="4"/>
+<path d="M946 300h28M960 286v28M951 291l18 18M951 309l18-18" stroke="#B8872A" stroke-width="4"/>
+<path d="M976 200h28M990 186v28M981 191l18 18M981 209l18-18" stroke="#B8872A" stroke-width="4"/>
+<path d="M790 610c-10-14 6-28 16-14c10-14 26 0 16 14l-16 18z" fill="#F6E3B8" stroke="#B8872A" stroke-width="4"/><path d="M850 610h110" stroke-width="4" stroke="#9DBBAD"/>
+</g>
+</svg>

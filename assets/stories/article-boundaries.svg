@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A person stands inside a dashed circle and calmly raises a hand as someone offers a stack of boxes">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="37" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="660" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 660c220-8 440 6 660-2s250 4 360 0"/>
+<ellipse cx="380" cy="656" rx="250" ry="46" stroke="#0F4C4A" stroke-width="4.5" stroke-dasharray="26 14"/>
+<path d="M356 550l-8 108M404 550l8 108"/>
+<path d="M332 420c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#C5D9CE"/>
+<circle cx="380" cy="368" r="52" fill="#F3E3CF"/><path d="M336 350c10-40 76-44 92-6"/>
+<circle cx="380" cy="368" r="4" fill="#12302E"/><circle cx="410" cy="368" r="4" fill="#12302E"/>
+<path d="M380 392c8 8 22 8 30 0"/>
+<path d="M424 430c40-10 70-34 86-70"/><path d="M496 366l-14-26M510 360l-4-30M524 362l8-28M536 370l20-20" stroke-width="4"/>
+<path d="M336 430c-30 30-40 70-34 110"/>
+<path d="M876 550l-8 108M924 550l8 108"/>
+<path d="M852 420c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#F1E9D6"/>
+<circle cx="900" cy="368" r="52" fill="#F3E3CF"/><path d="M856 350c10-40 76-44 92-6"/>
+<circle cx="872" cy="368" r="4" fill="#12302E"/><circle cx="902" cy="368" r="4" fill="#12302E"/>
+<path d="M874 394h26"/>
+<path d="M856 430c-40 20-70 40-90 70M944 430c-30 40-80 70-150 76"/>
+<rect x="700" y="500" width="120" height="56" rx="6" fill="#E4ECE6"/>
+<rect x="710" y="440" width="100" height="56" rx="6" fill="#F6E3B8"/>
+<rect x="718" y="386" width="84" height="56" rx="6" fill="#FAF7EF"/>
+<path d="M600 300c0-26 36-30 36-4c0 20-20 18-20 36M616 358v2" stroke="#B8872A" stroke-width="5"/>
+</g>
+</svg>

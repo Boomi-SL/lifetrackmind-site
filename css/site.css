@@ -280,3 +280,8 @@ html{scroll-behavior:smooth}
 .follow-link{display:inline-flex;align-items:center;min-height:44px;padding:0 22px;border-radius:999px;background:#FAF7EF;color:#0F4C4A!important;font-weight:600;text-decoration:none}
 .follow-link:hover{background:#E3B955}
 @media (prefers-reduced-motion:reduce){.story-card{transition:none}.story-card:hover{transform:none}}
+
+/* Sources */
+.sources{border-top:1px solid #DCD5C3;margin-top:28px;padding-top:8px;display:flex;flex-direction:column;gap:12px}
+.sources ul{font-size:15px;color:#4B625F}
+.sources a{font-weight:500;overflow-wrap:anywhere}
