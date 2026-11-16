@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="The first woodcutter swings harder and harder without stopping">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="74" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(980 650) scale(1.0 1.0)"><path d="M-18 0v-150h36v150z" fill="#E2CFAE"/>
+<circle cx="-50" cy="-190" r="60" fill="#C5D9CE"/><circle cx="50" cy="-190" r="60" fill="#C5D9CE"/><circle cx="0" cy="-250" r="70" fill="#C5D9CE"/></g>
+<g transform="translate(160 650) scale(0.8 0.8)"><path d="M-18 0v-150h36v150z" fill="#E2CFAE"/>
+<circle cx="-50" cy="-190" r="60" fill="#C5D9CE"/><circle cx="50" cy="-190" r="60" fill="#C5D9CE"/><circle cx="0" cy="-250" r="70" fill="#C5D9CE"/></g>
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M576 540l-8 108M624 540l8 108"/>
+<path d="M552 410c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#C5D9CE"/>
+<circle cx="600" cy="358" r="52" fill="#F3E3CF"/><path d="M556 340c10-40 76-44 92-6"/>
+<circle cx="600" cy="358" r="4" fill="#12302E"/><circle cx="630" cy="358" r="4" fill="#12302E"/>
+<path d="M600 388c8-8 22-8 30 0"/>
+<path d="M648 432c40-20 70-60 90-106M556 440c60 34 130-16 180-112"/>
+<g transform="rotate(60 740 316)"><path d="M740 316v-170" stroke="#9A7B4F" stroke-width="10"/><path d="M734 140h12" /><path d="M744 138c40-16 60 4 66 34c-22 12-46 12-66 4z" fill="#B9C2C2"/></g>
+<path d="M520 300c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M690 250c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M500 380c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M900 420l-30-10M900 460l-36 4M896 380l-22-24" stroke="#B8872A" stroke-width="4"/>
+<circle cx="274.0" cy="622" r="27" fill="#E2CFAE"/><circle cx="274.0" cy="622" r="12" stroke-width="3" stroke="#B39A70"/>
+<circle cx="330.0" cy="622" r="27" fill="#E2CFAE"/><circle cx="330.0" cy="622" r="12" stroke-width="3" stroke="#B39A70"/>
+<circle cx="386.0" cy="622" r="27" fill="#E2CFAE"/><circle cx="386.0" cy="622" r="12" stroke-width="3" stroke="#B39A70"/>
+<circle cx="302.0" cy="572" r="27" fill="#E2CFAE"/><circle cx="302.0" cy="572" r="12" stroke-width="3" stroke="#B39A70"/>
+<circle cx="358.0" cy="572" r="27" fill="#E2CFAE"/><circle cx="358.0" cy="572" r="12" stroke-width="3" stroke="#B39A70"/>
+</g>
+</svg>

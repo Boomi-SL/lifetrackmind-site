@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A large hand lifts the mouse out of the water">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="62" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M350 330h500v290c0 14-8 20-20 20h-460c-12 0-20-6-20-20z" fill="#DCEBEF" stroke="none"/>
+<path d="M350 180v440c0 14 8 20 20 20h460c12 0 20-6 20-20v-440"/>
+<path d="M350 330c125-10 125 10 250 0s125 10 250 0" stroke="#7FAEBB" stroke-width="4"/>
+<g transform="translate(640 300) scale(1.0 1.0)"><path d="M-56 -6c-40 6-60-20-44-44" stroke-width="4"/>
+<ellipse cx="0" cy="-10" rx="58" ry="34" fill="#E7E1D6"/>
+<circle cx="22" cy="-50" r="16" fill="#F3D9D2"/>
+<path d="M30 -40c26-6 50 6 62 26c-20 12-48 12-66 0z" fill="#E7E1D6"/>
+<circle cx="92" cy="-14" r="5" fill="#12302E"/><path d="M30 -22c4 5 10 5 14 0"/></g>
+<g transform="translate(580 160) scale(0.9 0.9)"><path d="M-50 -200h100v150h-100z" fill="#C5D9CE"/>
+<path d="M-46 -50c-10 60-4 110 20 140c30 26 70 10 80-30l10-70c4-20-18-26-24-8l-6 22l-6-54z" fill="#F3E3CF"/>
+<path d="M-40 20c-30-4-44 14-30 34c14 12 30 6 44-4" fill="#F3E3CF"/></g>
+<path d="M610 318c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M660 322c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M700 312c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M760 190l30-16M770 230h34M754 270l28 14" stroke="#B8872A" stroke-width="4"/>
+</g>
+</svg>

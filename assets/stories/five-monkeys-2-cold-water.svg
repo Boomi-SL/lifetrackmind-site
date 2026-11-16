@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="One monkey climbs the ladder and cold water falls on the others">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="44" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M556 650L570 170M644 650L630 170"/>
+<path d="M559.25 600.0h81.5"/>
+<path d="M561.25 520.0h77.5"/>
+<path d="M563.25 440.0h73.5"/>
+<path d="M565.25 360.0h69.5"/>
+<path d="M567.25 280.0h65.5"/>
+<path d="M569.25 200.0h61.5"/>
+<path d="M600 0v70" stroke-width="4"/>
+<path d="M594 70c-40 20-50 60-30 96c14-30 30-56 44-90z" fill="#F4D77A" stroke="#B8872A"/>
+<path d="M600 70c-10 36-6 76 22 100c4-34 2-66-8-100z" fill="#F4D77A" stroke="#B8872A"/>
+<path d="M606 70c26 20 50 50 50 90c-26-20-46-52-58-88z" fill="#F4D77A" stroke="#B8872A"/>
+<g transform="translate(600 420) scale(0.8 0.8)"><path d="M46 -24c50 6 70-30 50-58s-50-6-34 14" />
+<ellipse cx="0" cy="-70" rx="54" ry="66" fill="#D9C3A5"/>
+<circle cx="-50" cy="-178" r="16" fill="#D9C3A5"/><circle cx="50" cy="-178" r="16" fill="#D9C3A5"/>
+<circle cx="0" cy="-172" r="48" fill="#D9C3A5"/><ellipse cx="0" cy="-162" rx="32" ry="28" fill="#F3E3CF"/>
+<circle cx="-12" cy="-170" r="4" fill="#12302E"/><circle cx="12" cy="-170" r="4" fill="#12302E"/><path d="M-12 -150c8 8 16 8 24 0"/><path d="M-40 -108c-24-30-28-70-20-104M40 -108c24-30 28-70 20-104"/></g>
+<g transform="translate(200 650) scale(0.8 0.8)"><path d="M46 -24c50 6 70-30 50-58s-50-6-34 14" />
+<ellipse cx="0" cy="-70" rx="54" ry="66" fill="#D9C3A5"/>
+<circle cx="-50" cy="-178" r="16" fill="#D9C3A5"/><circle cx="50" cy="-178" r="16" fill="#D9C3A5"/>
+<circle cx="0" cy="-172" r="48" fill="#D9C3A5"/><ellipse cx="0" cy="-162" rx="32" ry="28" fill="#F3E3CF"/>
+<circle cx="-12" cy="-170" r="4" fill="#12302E"/><circle cx="12" cy="-170" r="4" fill="#12302E"/><path d="M-12 -144c8-8 16-8 24 0"/><path d="M-44 -100c10 30 50 40 80 26M44 -100c-10 30-50 44-80 30"/></g>
+<g transform="translate(380 650) scale(0.8 0.8)"><path d="M46 -24c50 6 70-30 50-58s-50-6-34 14" />
+<ellipse cx="0" cy="-70" rx="54" ry="66" fill="#D9C3A5"/>
+<circle cx="-50" cy="-178" r="16" fill="#D9C3A5"/><circle cx="50" cy="-178" r="16" fill="#D9C3A5"/>
+<circle cx="0" cy="-172" r="48" fill="#D9C3A5"/><ellipse cx="0" cy="-162" rx="32" ry="28" fill="#F3E3CF"/>
+<circle cx="-12" cy="-170" r="4" fill="#12302E"/><circle cx="12" cy="-170" r="4" fill="#12302E"/><ellipse cx="0" cy="-146" rx="7" ry="9" fill="#12302E"/><path d="M-44 -100c10 30 50 40 80 26M44 -100c-10 30-50 44-80 30"/></g>
+<g transform="translate(850 650) scale(-0.8 0.8)"><path d="M46 -24c50 6 70-30 50-58s-50-6-34 14" />
+<ellipse cx="0" cy="-70" rx="54" ry="66" fill="#D9C3A5"/>
+<circle cx="-50" cy="-178" r="16" fill="#D9C3A5"/><circle cx="50" cy="-178" r="16" fill="#D9C3A5"/>
+<circle cx="0" cy="-172" r="48" fill="#D9C3A5"/><ellipse cx="0" cy="-162" rx="32" ry="28" fill="#F3E3CF"/>
+<circle cx="-12" cy="-170" r="4" fill="#12302E"/><circle cx="12" cy="-170" r="4" fill="#12302E"/><path d="M-12 -144c8-8 16-8 24 0"/><path d="M-44 -100c10 30 50 40 80 26M44 -100c-10 30-50 44-80 30"/></g>
+<g transform="translate(1030 650) scale(-0.8 0.8)"><path d="M46 -24c50 6 70-30 50-58s-50-6-34 14" />
+<ellipse cx="0" cy="-70" rx="54" ry="66" fill="#D9C3A5"/>
+<circle cx="-50" cy="-178" r="16" fill="#D9C3A5"/><circle cx="50" cy="-178" r="16" fill="#D9C3A5"/>
+<circle cx="0" cy="-172" r="48" fill="#D9C3A5"/><ellipse cx="0" cy="-162" rx="32" ry="28" fill="#F3E3CF"/>
+<circle cx="-12" cy="-170" r="4" fill="#12302E"/><circle cx="12" cy="-170" r="4" fill="#12302E"/><ellipse cx="0" cy="-146" rx="7" ry="9" fill="#12302E"/><path d="M-44 -100c10 30 50 40 80 26M44 -100c-10 30-50 44-80 30"/></g>
+<path d="M150 300c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M230 240c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M300 330c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M380 260c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M440 340c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M800 300c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M870 230c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M940 330c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M1010 260c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M1090 320c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M180 400c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M1050 400c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M120 150h340M760 150h340" stroke="#7FAEBB" stroke-width="6" stroke-dasharray="4 20"/>
+</g>
+</svg>
