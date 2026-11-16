@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A frog leaps out of a pot of boiling water while a surprised scientist watches">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M510 642h380"/><path d="M550 642v-66M850 642v-66"/>
+<path d="M700 636c-32.5 -12.5 -27.5 -42.5 0 -72.5c27.5 30.0 32.5 60.0 0 72.5z" fill="#F0B95A" stroke="#B8872A"/>
+<path d="M656 636c-14-8-10-22 0-32c10 12 14 24 0 32z" fill="#F0B95A" stroke="#B8872A" stroke-width="4"/><path d="M744 636c-14-8-10-22 0-32c10 12 14 24 0 32z" fill="#F0B95A" stroke="#B8872A" stroke-width="4"/>
+<path d="M522 380c0 60 6 120 22 172c6 16 20 22 40 22h232c20 0 34-6 40-22c16-52 22-112 22-172" fill="#C5D9CE"/>
+<path d="M522 410c-44-6-60 14-56 34s24 30 62 22M878 410c44-6 60 14 56 34s-24 30-62 22"/>
+<ellipse cx="700" cy="380" rx="178" ry="34" fill="#F3C9A0"/>
+<circle cx="590" cy="376" r="12" fill="#FAF7EF" stroke-width="4"/>
+<circle cx="640" cy="388" r="9" fill="#FAF7EF" stroke-width="4"/>
+<circle cx="680" cy="370" r="14" fill="#FAF7EF" stroke-width="4"/>
+<circle cx="740" cy="386" r="10" fill="#FAF7EF" stroke-width="4"/>
+<circle cx="790" cy="374" r="13" fill="#FAF7EF" stroke-width="4"/>
+<circle cx="830" cy="386" r="8" fill="#FAF7EF" stroke-width="4"/>
+<circle cx="560" cy="388" r="7" fill="#FAF7EF" stroke-width="4"/>
+<path d="M610 310c-22-26 22-44 0-72s22-44 0-70" stroke="#8FA8A2" stroke-width="4.5"/>
+<path d="M700 310c-22-26 22-44 0-72s22-44 0-70" stroke="#8FA8A2" stroke-width="4.5"/>
+<path d="M790 310c-22-26 22-44 0-72s22-44 0-70" stroke="#8FA8A2" stroke-width="4.5"/>
+<path d="M186 650c-10-110 0-210 26-262h96c26 52 36 152 26 262z" fill="#FFFFFF"/>
+<path d="M260 388v262" stroke-width="4"/><circle cx="276" cy="480" r="4" fill="#12302E"/><circle cx="276" cy="540" r="4" fill="#12302E"/>
+<path d="M220 580h34" stroke-width="4"/>
+<circle cx="260" cy="318" r="66" fill="#F3E3CF"/>
+<circle cx="274" cy="314" r="17" fill="#FAF7EF" stroke-width="4"/><circle cx="314" cy="316" r="15" fill="#FAF7EF" stroke-width="4"/><path d="M291 314h8M257 312l-40-10" stroke-width="4"/>
+<circle cx="278" cy="316" r="4" fill="#12302E"/><circle cx="316" cy="318" r="4" fill="#12302E"/>
+<ellipse cx="296" cy="356" rx="9" ry="12" fill="#12302E"/>
+<path d="M256 284l22-8M304 278l22 6" stroke-width="4"/>
+<path d="M346 252l14-16M360 282l22-8" stroke="#B8872A" stroke-width="4"/>
+<path d="M320 430c50-10 70-50 76-96"/><path d="M384 328l-6-22M398 330l2-24M410 336l12-18" stroke-width="4"/>
+<path d="M204 430c-40-16-58-56-56-100"/>
+<path d="M700 332c20-130 110-190 250-210" stroke="#0F4C4A" stroke-width="4" stroke-dasharray="4 16"/>
+<g transform="rotate(-24 1010 150)">
+<path d="M958 170l-70 34-10 30M962 184l-56 54 6 30M1060 158l44-30 26 8M1062 174l50-6 18 20" stroke-width="5"/>
+<ellipse cx="1010" cy="164" rx="62" ry="40" fill="#BFD9A0"/>
+<circle cx="1028" cy="120" r="19" fill="#BFD9A0"/><circle cx="1068" cy="134" r="19" fill="#BFD9A0"/>
+<circle cx="1030" cy="118" r="6" fill="#12302E"/><circle cx="1070" cy="132" r="6" fill="#12302E"/>
+<ellipse cx="1054" cy="172" rx="10" ry="13" fill="#12302E"/>
+</g>
+<path d="M1080 60l14-22M1110 84l24-12M1118 120l26 2" stroke="#B8872A" stroke-width="4"/>
+</g>
+</svg>

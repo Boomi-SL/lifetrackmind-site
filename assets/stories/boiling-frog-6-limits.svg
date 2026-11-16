@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A person sits inside rings that close in a little at a time">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="20" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="640" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 640c220-8 440 6 660-2s250 4 360 0"/>
+<ellipse cx="600" cy="470" rx="480" ry="250" stroke="#C5D9CE" stroke-width="4" stroke-dasharray="3 18"/>
+<ellipse cx="600" cy="470" rx="360" ry="200" stroke="#9DBBAD" stroke-width="4" stroke-dasharray="14 16"/>
+<ellipse cx="600" cy="470" rx="250" ry="160" stroke="#0F4C4A" stroke-width="4.5" stroke-dasharray="26 14"/>
+<ellipse cx="600" cy="490" rx="150" ry="130" stroke="#12302E"/>
+<path d="M536 640c-10-56 6-104 34-132h60c28 28 44 76 34 132z" fill="#C5D9CE"/>
+<circle cx="600" cy="462" r="52" fill="#F3E3CF"/>
+<path d="M556 444c10-40 76-44 92-6"/>
+<circle cx="584" cy="464" r="4" fill="#12302E"/><circle cx="618" cy="464" r="4" fill="#12302E"/>
+<path d="M588 488h26"/>
+<g transform="translate(96 420) rotate(0)" stroke="#B8872A" stroke-width="5"><path d="M0 0h62"/><path d="M40 -18l24 18-24 18"/></g>
+<g transform="translate(1104 420) rotate(180)" stroke="#B8872A" stroke-width="5"><path d="M0 0h62"/><path d="M40 -18l24 18-24 18"/></g>
+<g transform="translate(250 236) rotate(38)" stroke="#B8872A" stroke-width="5"><path d="M0 0h62"/><path d="M40 -18l24 18-24 18"/></g>
+<g transform="translate(950 236) rotate(142)" stroke="#B8872A" stroke-width="5"><path d="M0 0h62"/><path d="M40 -18l24 18-24 18"/></g>
+</g>
+</svg>
