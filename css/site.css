@@ -296,3 +296,8 @@ html{scroll-behavior:smooth}
 .cookie-no{background:#FFFFFF;color:#0F4C4A;border:1px solid #0F4C4A}
 .cookie-settings{font:inherit;font-weight:600;color:#0F4C4A;background:none;border:0;padding:10px 0;text-decoration:underline;cursor:pointer;align-self:flex-start}
 @media (max-width:480px){.cookie-box{left:8px;right:8px;bottom:8px;max-width:none}}
+
+/* Read jump */
+.read-jump{display:flex;flex-wrap:wrap;gap:10px;margin-top:8px}
+.read-jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 20px;border-radius:999px;border:1px solid #0F4C4A;color:#0F4C4A;font-weight:600;text-decoration:none;background:#FFFFFF}
+.read-jump a:hover{background:#0F4C4A;color:#FAF7EF}
