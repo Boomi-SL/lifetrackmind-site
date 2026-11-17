@@ -1,7 +1,7 @@
 # Life Track Mind website
 
 Static website for Life Track Mind (lifetrackmind on TikTok, YouTube, Instagram and Facebook).
-Live at https://boomi-sl.github.io/lifetrackmind-site/
+Live at https://lifetrackmind.com/
 
 ## Pages
 - `index.html`: homepage with the overthinker quiz and the stress check-in
