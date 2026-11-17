@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Under the ground one well goes deeper than the old stopping line and reaches water">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="171" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="1060" cy="110" r="70" fill="#F6E3B8" stroke="none"/>
+<path d="M0 260h1200v500H0z" fill="#E9D9BD" stroke="none"/>
+<path d="M0 260h520M680 260h520"/>
+<path d="M520 260v420h160v-420" fill="#F3EBDB"/>
+<path d="M500 520h200" stroke="#B8872A" stroke-width="4" stroke-dasharray="10 12"/><path d="M710 520h50" stroke="#B8872A" stroke-width="4"/>
+<path d="M520 640h160v40h-160z" fill="#DCEBEF" stroke="none"/><path d="M520 640c30-10 50 10 80 0s50-10 80 0" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M560 600c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M600 570c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M640 596c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M580 540c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M624 520c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<g transform="translate(380 260) scale(0.62 0.62)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#F1E9D6"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M0 -268c8 8 22 8 30 0"/><path d="M44 -228Q67.0 -184.0 110 -150"/><path d="M-44 -228Q-52.0 -169.0 -60 -110"/></g>
+<path d="M430 120l40 140" stroke="#9A7B4F" stroke-width="7"/>
+<path d="M820 260v-60"/><path d="M820 230c-26-6-36-24-32-46c26 4 36 22 32 46z" fill="#C5D9CE"/><path d="M820 214c22-10 32-30 26-50c-22 10-32 30-26 50z" fill="#C5D9CE"/>
+<circle cx="100" cy="340" r="5" fill="#D7BF98" stroke="none"/>
+<circle cx="300" cy="420" r="5" fill="#D7BF98" stroke="none"/>
+<circle cx="900" cy="380" r="5" fill="#D7BF98" stroke="none"/>
+<circle cx="1080" cy="460" r="5" fill="#D7BF98" stroke="none"/>
+<circle cx="200" cy="600" r="5" fill="#D7BF98" stroke="none"/>
+<circle cx="980" cy="640" r="5" fill="#D7BF98" stroke="none"/>
+</g>
+</svg>

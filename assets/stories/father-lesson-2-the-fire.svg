@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="The son rushes forward to save the note he earned before it reaches the fire">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="141" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M760 650v-300h360v300" fill="#E7DCCB"/><path d="M820 650v-200h240v200" fill="#5E4A3A"/><path d="M740 350h400" stroke-width="8"/>
+<path d="M900 644c-36.0 -24.0 -31.2 -72.0 0 -120.0c31.2 48.0 38.4 96.0 0 120.0z" fill="#F0B95A" stroke="#B8872A"/>
+<path d="M960 644c-45.0 -30.0 -39.0 -90.0 0 -150.0c39.0 60.0 48.0 120.0 0 150.0z" fill="#F0B95A" stroke="#B8872A"/>
+<path d="M1020 644c-33.0 -22.0 -28.6 -66.0 0 -110.00000000000001c28.6 44.0 35.2 88.0 0 110.00000000000001z" fill="#F0B95A" stroke="#B8872A"/>
+<g transform="translate(620 650) scale(1.05 1.05)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#B8CCC4"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M2 -266h26"/><path d="M44 -228Q87.0 -214.0 170 -220"/><path d="M-44 -228Q-52.0 -169.0 -60 -110"/></g>
+<g transform="translate(810 414) scale(0.8 0.8)"><g transform="rotate(10)"><rect x="-48" y="-26" width="96" height="52" rx="6" fill="#D9E8CF"/><circle cx="0" cy="0" r="14" stroke-width="4"/><path d="M-36 -14v28M36 -14v28" stroke-width="3"/></g></g>
+<g transform="translate(330 610) scale(0.72 0.72)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#F1E9D6"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M2 -266h26"/><path d="M44 -228Q102.0 -244.0 200 -280"/><path d="M-44 -228Q98.0 -224.0 180 -250"/></g>
+<path d="M230 380L190 370" stroke="#B8872A" stroke-width="4"/><path d="M230 420L184 424" stroke="#B8872A" stroke-width="4"/><path d="M230 460L190 476" stroke="#B8872A" stroke-width="4"/>
+<path d="M290 638h60" stroke="#9DBBAD" stroke-width="5"/>
+</g>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Rats at the bottom of a dry well watch a small basket of food being lowered">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="174" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<rect width="1200" height="760" fill="#EEF1EC" stroke="none"/>
+<path d="M0 200h1200v560h-1200z" fill="#E9D9BD" stroke="none"/>
+<path d="M390 200v500h420v-500" fill="#F3EBDB"/>
+<path d="M0 200h390M810 200h390"/>
+<path d="M390 230h-36M810 230h36" stroke="#D7BF98" stroke-width="4"/>
+<path d="M390 290h-36M810 290h36" stroke="#D7BF98" stroke-width="4"/>
+<path d="M390 350h-36M810 350h36" stroke="#D7BF98" stroke-width="4"/>
+<path d="M390 410h-36M810 410h36" stroke="#D7BF98" stroke-width="4"/>
+<path d="M390 470h-36M810 470h36" stroke="#D7BF98" stroke-width="4"/>
+<path d="M390 530h-36M810 530h36" stroke="#D7BF98" stroke-width="4"/>
+<path d="M390 590h-36M810 590h36" stroke="#D7BF98" stroke-width="4"/>
+<path d="M390 650h-36M810 650h36" stroke="#D7BF98" stroke-width="4"/>
+<circle cx="80" cy="260" r="5" fill="#D7BF98" stroke="none"/>
+<circle cx="300" cy="320" r="5" fill="#D7BF98" stroke="none"/>
+<circle cx="980" cy="290" r="5" fill="#D7BF98" stroke="none"/>
+<circle cx="1100" cy="400" r="5" fill="#D7BF98" stroke="none"/>
+<circle cx="180" cy="460" r="5" fill="#D7BF98" stroke="none"/>
+<circle cx="1020" cy="530" r="5" fill="#D7BF98" stroke="none"/>
+<path d="M600 0v300" stroke="#9A7B4F" stroke-width="4"/><path d="M540 300h120l-16 60h-88z" fill="#E2CFAE"/><path d="M560 300c0-30 80-30 80 0" stroke-width="4"/>
+<g transform="translate(450 694) scale(1.0 1.0)"><path d="M-56 -6c-40 6-60-20-44-44" stroke-width="4"/>
+<ellipse cx="0" cy="-10" rx="58" ry="34" fill="#E7E1D6"/>
+<circle cx="22" cy="-50" r="16" fill="#F3D9D2"/>
+<path d="M30 -40c26-6 50 6 62 26c-20 12-48 12-66 0z" fill="#E7E1D6"/>
+<circle cx="92" cy="-14" r="5" fill="#12302E"/><circle cx="38" cy="-24" r="4" fill="#12302E"/></g>
+<g transform="translate(750 694) scale(-1.0 1.0)"><path d="M-56 -6c-40 6-60-20-44-44" stroke-width="4"/>
+<ellipse cx="0" cy="-10" rx="58" ry="34" fill="#E7E1D6"/>
+<circle cx="22" cy="-50" r="16" fill="#F3D9D2"/>
+<path d="M30 -40c26-6 50 6 62 26c-20 12-48 12-66 0z" fill="#E7E1D6"/>
+<circle cx="92" cy="-14" r="5" fill="#12302E"/><circle cx="38" cy="-24" r="4" fill="#12302E"/></g>
+<g transform="translate(560 694) scale(0.85 0.85)"><path d="M-56 -6c-40 6-60-20-44-44" stroke-width="4"/>
+<ellipse cx="0" cy="-10" rx="58" ry="34" fill="#E7E1D6"/>
+<circle cx="22" cy="-50" r="16" fill="#F3D9D2"/>
+<path d="M30 -40c26-6 50 6 62 26c-20 12-48 12-66 0z" fill="#E7E1D6"/>
+<circle cx="92" cy="-14" r="5" fill="#12302E"/><path d="M30 -22c4 5 10 5 14 0"/></g>
+<g transform="translate(650 694) scale(-0.85 0.85)"><path d="M-56 -6c-40 6-60-20-44-44" stroke-width="4"/>
+<ellipse cx="0" cy="-10" rx="58" ry="34" fill="#E7E1D6"/>
+<circle cx="22" cy="-50" r="16" fill="#F3D9D2"/>
+<path d="M30 -40c26-6 50 6 62 26c-20 12-48 12-66 0z" fill="#E7E1D6"/>
+<circle cx="92" cy="-14" r="5" fill="#12302E"/><circle cx="38" cy="-24" r="4" fill="#12302E"/></g>
+<path d="M520 600L540 580" stroke="#C9786A" stroke-width="4"/><path d="M690 600L670 580" stroke="#C9786A" stroke-width="4"/><path d="M600 560L600 530" stroke="#C9786A" stroke-width="4"/>
+</g>
+</svg>
