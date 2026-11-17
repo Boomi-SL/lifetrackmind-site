@@ -301,3 +301,9 @@ html{scroll-behavior:smooth}
 .read-jump{display:flex;flex-wrap:wrap;gap:10px;margin-top:8px}
 .read-jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 20px;border-radius:999px;border:1px solid #0F4C4A;color:#0F4C4A;font-weight:600;text-decoration:none;background:#FFFFFF}
 .read-jump a:hover{background:#0F4C4A;color:#FAF7EF}
+
+/* Sinhala */
+[lang="si"]{font-family:'Noto Sans Sinhala','Iskoola Pota','Nirmala UI',sans-serif}
+.story-si{background:#F1F5F1;border-radius:20px;padding:24px 26px;margin-top:36px;display:flex;flex-direction:column;gap:10px}
+.story-si h2{font-size:22px!important;margin:0!important}
+.story-si p{margin:0!important;line-height:1.85!important}

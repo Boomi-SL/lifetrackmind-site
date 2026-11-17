@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A swimmer pushes hard toward the ladder at the end of the pool with his eyes fixed on the finish">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="150" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="0" y="0" width="1200" height="760" fill="#EEF3F2" stroke="none"/>
+<path d="M0 300h1200v460h-1200z" fill="#DCEBEF" stroke="none"/><path d="M0 300c40-12 60 12 100 0s60-12 100 0s60 12 100 0s60-12 100 0s60 12 100 0s60-12 100 0" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M0 420h1200" stroke="#B8872A" stroke-width="4" stroke-dasharray="2 22"/>
+<path d="M0 560h1200" stroke="#B8872A" stroke-width="4" stroke-dasharray="2 22"/>
+<path d="M1060 140v400M1120 140v400M1060 210h60M1060 280h60M1060 350h60" stroke-width="7"/>
+<path d="M1090 140v-60" stroke-width="5"/><path d="M1096 84h70l-16 20 16 20h-70z" fill="#F6E3B8" stroke="#B8872A"/>
+<ellipse cx="560" cy="370" rx="160" ry="24" fill="#B8CCC4"/><circle cx="740" cy="360" r="34" fill="#F3E3CF"/><path d="M716 340c10-16 40-18 52-2"/><path d="M752 356h14"/>
+<path d="M640 350c40-90 120-110 160-80" stroke-width="7"/><path d="M420 380c-30-10-60-10-90 4" stroke-width="7"/>
+<path d="M820 380L900 380" stroke="#0F4C4A" stroke-width="4"/><path d="M820 350L880 330" stroke="#0F4C4A" stroke-width="4"/>
+<path d="M760 360C860 360 960 320 1040 320" stroke="#0F4C4A" stroke-width="4" stroke-dasharray="4 14"/>
+<circle cx="240" cy="510" r="22" fill="#F3E3CF" opacity=".6"/>
+<circle cx="420" cy="510" r="22" fill="#F3E3CF" opacity=".6"/>
+<circle cx="900" cy="500" r="22" fill="#F3E3CF" opacity=".6"/>
+</g>
+</svg>

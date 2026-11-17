@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Workers carry the load on the factory floor while the owner watches from a glass office">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="180" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M760 80h380v220h-380z" fill="#E6F0F2"/><path d="M790 120l60-30M820 150l90-50M1080 110l40-20" stroke="#FFFFFF" stroke-width="8"/><path d="M740 300h420" stroke-width="8"/><path d="M780 300v350M1120 300v350" stroke-width="6"/><g transform="translate(950 300) scale(0.55 0.55)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#B8CCC4"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M2 -266h26"/></g>
+<rect x="90" y="480" width="140" height="170" rx="12" fill="#E9EEEC"/><circle cx="160" cy="565" r="34" fill="#E4ECE6"/><circle cx="160" cy="565" r="10"/><path d="M194 565L206 565" stroke-width="7"/><path d="M184 589L193 598" stroke-width="7"/><path d="M160 599L160 611" stroke-width="7"/><path d="M136 589L127 598" stroke-width="7"/><path d="M126 565L114 565" stroke-width="7"/><path d="M136 541L127 532" stroke-width="7"/><path d="M160 531L160 519" stroke-width="7"/><path d="M184 541L193 532" stroke-width="7"/><path d="M80 466L60 446" stroke="#B8872A" stroke-width="4"/><path d="M240 466L260 446" stroke="#B8872A" stroke-width="4"/>
+<rect x="550" y="480" width="140" height="170" rx="12" fill="#E9EEEC"/><circle cx="620" cy="565" r="34" fill="#E4ECE6"/><circle cx="620" cy="565" r="10"/><path d="M654 565L666 565" stroke-width="7"/><path d="M644 589L653 598" stroke-width="7"/><path d="M620 599L620 611" stroke-width="7"/><path d="M596 589L587 598" stroke-width="7"/><path d="M586 565L574 565" stroke-width="7"/><path d="M596 541L587 532" stroke-width="7"/><path d="M620 531L620 519" stroke-width="7"/><path d="M644 541L653 532" stroke-width="7"/><path d="M540 466L520 446" stroke="#B8872A" stroke-width="4"/><path d="M700 466L720 446" stroke="#B8872A" stroke-width="4"/>
+<path d="M230 590h320" stroke-width="6"/><circle cx="260" cy="600" r="8"/><circle cx="520" cy="600" r="8"/>
+<g transform="translate(300 650) scale(0.62 0.62)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#F1E9D6"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M2 -266h26"/><path d="M-44 -228Q-62.0 -304.0 -40 -400"/><path d="M44 -228Q62.0 -304.0 40 -400"/></g>
+<rect x="272" y="346" width="56" height="56" rx="4" fill="#D7BF98"/><path d="M272 374h56" stroke-width="3"/>
+<g transform="translate(420 650) scale(0.62 0.62)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#F1E9D6"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M2 -266h26"/><path d="M-44 -228Q-62.0 -304.0 -40 -400"/><path d="M44 -228Q62.0 -304.0 40 -400"/></g>
+<rect x="392" y="346" width="56" height="56" rx="4" fill="#D7BF98"/><path d="M392 374h56" stroke-width="3"/>
+<g transform="translate(860 650) scale(0.62 0.62)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#F1E9D6"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="-28" cy="-292" r="4" fill="#12302E"/><circle cx="2" cy="-292" r="4" fill="#12302E"/>
+<path d="M-26 -266h26"/><path d="M-44 -228Q-62.0 -304.0 -40 -400"/><path d="M44 -228Q62.0 -304.0 40 -400"/></g>
+<rect x="832" y="346" width="56" height="56" rx="4" fill="#D7BF98"/><path d="M832 374h56" stroke-width="3"/>
+</g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A donkey carries a tall stack of sacks while the horse beside it walks free">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="126" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M0 660C300 650600 6101200 530V760H0z" fill="#E4ECE6" stroke="none"/>
+<path d="M0 660C300 650600 6101200 530"/>
+<g transform="translate(230 654) scale(0.62 0.62)"><path d="M-128 -190c-40 10-50 60-40 100" stroke-width="6"/>
+<path d="M-90 -140l-6 140M-52 -140l6 140M70 -140l-6 140M104 -140l6 140" stroke-width="7"/>
+<ellipse cx="0" cy="-178" rx="134" ry="62" fill="#D6D2CA"/>
+<path d="M92 -216L148 -318C166 -346 214 -334 236 -302L248 -272C246 -254 222 -252 206 -262L172 -250L132 -172Z" fill="#D6D2CA"/>
+<path d="M150 -328l-14-62l28 52z" fill="#D6D2CA"/><path d="M170 -334l12-60l14 58z" fill="#D6D2CA"/><path d="M188 -300c5 5 12 5 16 0"/><path d="M148 -318C118 -288 108 -250 96 -214" stroke-width="6"/></g>
+<rect x="170" y="458" width="80" height="50" rx="16" fill="#F1E9D6"/>
+<rect x="250" y="458" width="80" height="50" rx="16" fill="#F1E9D6"/>
+<rect x="210" y="408" width="80" height="50" rx="16" fill="#F1E9D6"/>
+<rect x="210" y="358" width="80" height="50" rx="16" fill="#F1E9D6"/>
+<path d="M360 380c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M390 420c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<g transform="translate(600 632) scale(0.7 0.7)"><path d="M-128 -190c-40 10-50 60-40 100" stroke-width="6"/>
+<path d="M-90 -140l-6 140M-52 -140l6 140M70 -140l-6 140M104 -140l6 140" stroke-width="7"/>
+<ellipse cx="0" cy="-178" rx="134" ry="62" fill="#D9B48C"/>
+<path d="M92 -216L148 -318C166 -346 214 -334 236 -302L248 -272C246 -254 222 -252 206 -262L172 -250L132 -172Z" fill="#D9B48C"/>
+<path d="M160 -330l8-30l14 26" fill="#D9B48C"/><circle cx="196" cy="-300" r="5" fill="#12302E"/><path d="M148 -318C118 -288 108 -250 96 -214" stroke-width="6"/></g>
+<g transform="translate(950 580) scale(0.8 0.8)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#F1E9D6"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M0 -268c8 8 22 8 30 0"/><path d="M-44 -228Q-77.0 -164.0 -150 -120"/><path d="M44 -228Q52.0 -169.0 60 -110"/></g>
+<path d="M830 520c-40 10-90 20-120 40" stroke-width="4"/>
+</g>
+</svg>

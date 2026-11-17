@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A farmer stands in a dry field covered in shallow holes">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="168" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="1060" cy="120" r="80" fill="#F3C9A0" stroke="none"/>
+<path d="M0 470h1200v290H0z" fill="#E9D9BD" stroke="none"/>
+<path d="M0 470h1200"/>
+<ellipse cx="130" cy="560" rx="50" ry="16" fill="#BFA77F"/><path d="M180 560c20-20 50-20 60 0" fill="#D7BF98" stroke-width="4"/>
+<ellipse cx="330" cy="520" rx="50" ry="16" fill="#BFA77F"/><path d="M380 520c20-20 50-20 60 0" fill="#D7BF98" stroke-width="4"/>
+<ellipse cx="520" cy="600" rx="50" ry="16" fill="#BFA77F"/><path d="M570 600c20-20 50-20 60 0" fill="#D7BF98" stroke-width="4"/>
+<ellipse cx="700" cy="530" rx="50" ry="16" fill="#BFA77F"/><path d="M750 530c20-20 50-20 60 0" fill="#D7BF98" stroke-width="4"/>
+<ellipse cx="880" cy="610" rx="50" ry="16" fill="#BFA77F"/><path d="M930 610c20-20 50-20 60 0" fill="#D7BF98" stroke-width="4"/>
+<ellipse cx="1080" cy="540" rx="50" ry="16" fill="#BFA77F"/><path d="M1130 540c20-20 50-20 60 0" fill="#D7BF98" stroke-width="4"/>
+<ellipse cx="260" cy="680" rx="50" ry="16" fill="#BFA77F"/><path d="M310 680c20-20 50-20 60 0" fill="#D7BF98" stroke-width="4"/>
+<ellipse cx="640" cy="700" rx="50" ry="16" fill="#BFA77F"/><path d="M690 700c20-20 50-20 60 0" fill="#D7BF98" stroke-width="4"/>
+<ellipse cx="980" cy="700" rx="50" ry="16" fill="#BFA77F"/><path d="M1030 700c20-20 50-20 60 0" fill="#D7BF98" stroke-width="4"/>
+<path d="M60 500l30 20-10 20M420 640l26-10 14 20M760 680l30 4" stroke="#BFA77F" stroke-width="4"/>
+<g transform="translate(800 470) scale(0.8 0.8)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#C5D9CE"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M0 -262c8-8 22-8 30 0"/><path d="M44 -228Q67.0 -184.0 110 -150"/><path d="M-44 -228Q43.0 -169.0 90 -130"/></g>
+<path d="M860 220l90 230" stroke="#9A7B4F" stroke-width="9"/><path d="M944 436l36 26-28 14-24-28z" fill="#B9C2C2"/>
+<path d="M140 470v-60M400 470v-50" stroke="#BFA77F" stroke-width="4"/><path d="M140 430l-16-14M400 440l14-14" stroke="#BFA77F" stroke-width="4"/>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="An old gravedigger rests his spade beside an open grave with an empty coat and hat">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="132" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="1020" cy="160" r="60" fill="#F6E3B8" stroke="none"/>
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M560 642h240l-10 22h-220z" fill="#6E5A44"/><path d="M820 646c20-50 120-50 160 0z" fill="#D7BF98"/>
+<g transform="translate(420 650) scale(1.0 1.0)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#D8CDBA"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M0 -268c8 8 22 8 30 0"/><path d="M44 -228Q67.0 -174.0 110 -130"/><path d="M-44 -228Q43.0 -159.0 90 -110"/></g>
+<path d="M500 330l50 290" stroke="#9A7B4F" stroke-width="9"/><path d="M536 604l34 34-30 10-20-34z" fill="#B9C2C2"/>
+<path d="M378 300c10 40 40 50 64 40" stroke-width="4"/>
+<path d="M620 636l20-70h60l20 70" fill="#8E9C9A"/><path d="M660 566h20" stroke-width="4"/>
+<path d="M730 622c0-30 60-30 60 0z" fill="#5E6E6C"/><path d="M720 622h80" stroke-width="5"/>
+<g transform="translate(160 650) scale(0.85 0.85)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#F1E9D6"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M2 -266h26"/><path d="M-44 -228Q-52.0 -169.0 -60 -110"/><path d="M44 -228Q52.0 -169.0 60 -110"/></g>
+<g transform="translate(230 280) scale(1.0 1.0)"><path d="M-18 -30c0-28 38-32 38-4c0 20-20 18-20 38M0 34v2" stroke="#0F4C4A" stroke-width="6"/></g>
+</g>
+</svg>
