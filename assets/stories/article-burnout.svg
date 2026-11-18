@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A tired person sits at a desk piled with papers beside a candle that has burned all the way down">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="200" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M540 650v-210h560v210" fill="none"/><path d="M520 440h600" stroke-width="8"/>
+<rect x="600" y="360" width="150" height="80" rx="6" fill="#F1E9D6"/><rect x="620" y="320" width="130" height="40" rx="6" fill="#FFFFFF"/><rect x="610" y="280" width="120" height="40" rx="6" fill="#F1E9D6"/>
+<rect x="930" y="400" width="44" height="40" rx="6" fill="#F1E9D6"/><path d="M930 440h44" stroke-width="6"/><path d="M952 398v-14" stroke-width="3"/><path d="M952 380c-10-10 6-20 0-30c10 8 4 20 0 30" stroke="#8FA8A2" stroke-width="3"/>
+<path d="M940 350c-16-20 16-34 0-56s16-34 0-50" stroke="#8FA8A2" stroke-width="4"/>
+<g transform="translate(420 650) scale(0.95 0.95)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#C5D9CE"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M0 -262c8-8 22-8 30 0"/><path d="M44 -228Q152.0 -209.0 200 -220"/><path d="M-44 -228Q113.0 -189.0 170 -200"/></g>
+<circle cx="1040" cy="190" r="56" fill="#FFFFFF"/><path d="M1040 160v30l22 14"/>
+<path d="M330 290c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+<path d="M510 300c-10 14-10 24 0 26s10-12 0-26z" fill="#A9CFDA" stroke="#7FAEBB" stroke-width="4"/>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A person reads in bed under a warm lamp while the moon shines through the window">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="206" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<rect width="1200" height="760" fill="#EEF1EC" stroke="none"/>
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<rect x="760" y="110" width="200" height="170" fill="#DCE3EA"/><path d="M860 110v170M760 195h200" stroke-width="4"/><path d="M900 140a26 26 0 1 0 22 40a20 20 0 0 1-22-40z" fill="#F6E3B8" stroke="#B8872A" stroke-width="3"/>
+<path d="M200 650v-150M900 650v-90"/><path d="M200 590h700"/>
+<path d="M200 540h700v50h-700z" fill="#FAF7EF"/>
+<path d="M230 510c-10-50 20-76 80-76h40c50 0 70 30 60 76z" fill="#FFFFFF"/>
+<circle cx="320" cy="470" r="52" fill="#F3E3CF"/><path d="M276 454c10-40 76-44 92-6"/>
+<circle cx="308" cy="462" r="4" fill="#12302E"/><circle cx="336" cy="462" r="4" fill="#12302E"/>
+<path d="M314 494h22"/>
+<path d="M380 540c40-60 160-70 300-60s200 20 220 60z" fill="#C5D9CE"/>
+<path d="M392 412l58 18v64l-58-18z" fill="#FFFFFF"/><path d="M508 412l-58 18v64l58-18z" fill="#F1E9D6"/><path d="M404 432l34 10M404 450l34 10M462 442l34-10M462 460l34-10" stroke-width="2.5"/>
+<path d="M352 500c20-6 30-10 44-16M540 500c-16-4-24-8-34-14" stroke-width="5"/>
+<path d="M990 650v-160h90v160" fill="#E2CFAE"/><path d="M1035 490v-90"/><path d="M1000 400h70l-14-50h-42z" fill="#F6E3B8"/>
+<path d="M980 350l-30-20M1090 350l30-20M1035 330v-30" stroke="#B8872A" stroke-width="3"/>
+</g>
+</svg>
