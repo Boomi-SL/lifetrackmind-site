@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A person sleeps peacefully while the phone charges across the room and a sunrise alarm clock sits by the bed">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="212" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<rect width="1200" height="760" fill="#E7ECEB" stroke="none"/>
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M120 650v-150M760 650v-90"/><path d="M120 590h640"/>
+<path d="M120 540h640v50h-640z" fill="#FAF7EF"/>
+<path d="M150 510c-10-50 20-76 80-76h40c50 0 70 30 60 76z" fill="#FFFFFF"/>
+<circle cx="240" cy="470" r="52" fill="#F3E3CF"/><path d="M196 454c10-40 76-44 92-6"/>
+<path d="M220 462c6 6 12 6 18 0M248 462c6 6 12 6 18 0"/>
+<path d="M234 492c8 6 18 6 24 0"/>
+<path d="M300 540c40-60 160-70 260-60s160 20 200 60z" fill="#C5D9CE"/>
+<path d="M340 360h22l-22 22h22M380 320h16l-16 16h16M410 286h12l-12 12h12" stroke="#0F4C4A" stroke-width="4"/>
+<path d="M800 650v-120h120v120" fill="#E2CFAE"/><rect x="814" y="474" width="92" height="56" rx="14" fill="#F6E3B8"/><path d="M836 510a24 24 0 0 1 48 0" stroke="#B8872A" stroke-width="4"/>
+<path d="M1000 650v-360h150v360" fill="#F3EBDB"/><circle cx="1030" cy="470" r="6" fill="#12302E"/>
+<path d="M1040 580h80v40h-80z" fill="#E4ECE6"/><rect x="1060" y="538" width="36" height="60" rx="8" fill="#5E6E6C"/><path d="M1078 598v30" stroke-width="3"/>
+<path d="M1010 560c-40-10-80-10-110 0" stroke="#0F4C4A" stroke-width="4" stroke-dasharray="4 14"/>
+</g>
+</svg>

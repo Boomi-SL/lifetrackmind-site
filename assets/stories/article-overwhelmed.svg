@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A person stands under a cloud of tangled tasks while a notebook beside them shows a short checked list">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="209" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<g transform="translate(380 650) scale(1.0 1.0)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#C5D9CE"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M2 -266h26"/><path d="M-44 -228Q-77.0 -269.0 -70 -330"/><path d="M44 -228Q77.0 -269.0 70 -330"/></g>
+<path d="M180 160c-60-60 40-120 100-70s-70 100-110 40 90-120 160-60-40 120-90 70 50-110 120-90 60 90-10 110" stroke="#0F4C4A" stroke-width="4"/>
+<g transform="rotate(-12 170 300)"><rect x="136" y="278" width="68" height="44" rx="6" fill="#FFFFFF"/><path d="M150 294h40M150 308h26" stroke-width="3"/></g>
+<g transform="rotate(10 600 120)"><rect x="566" y="98" width="68" height="44" rx="6" fill="#FFFFFF"/><path d="M580 114h40M580 128h26" stroke-width="3"/></g>
+<g transform="rotate(-6 560 300)"><rect x="526" y="278" width="68" height="44" rx="6" fill="#FFFFFF"/><path d="M540 294h40M540 308h26" stroke-width="3"/></g>
+<g transform="rotate(8 230 90)"><rect x="196" y="68" width="68" height="44" rx="6" fill="#FFFFFF"/><path d="M210 84h40M210 98h26" stroke-width="3"/></g>
+<path d="M760 630l40-360h300l-40 360z" fill="#FFFFFF"/><path d="M780 630l40-360" stroke="#C9786A" stroke-width="3"/>
+<path d="M850 360l14 14 26-30" stroke="#0F4C4A" stroke-width="5"/><path d="M900 360h120" stroke-width="4"/>
+<path d="M846 440l14 14 26-30" stroke="#0F4C4A" stroke-width="5"/><path d="M896 440h110" stroke-width="4"/>
+<path d="M842 520l14 14 26-30" stroke="#0F4C4A" stroke-width="5"/><path d="M892 520h100" stroke-width="4"/>
+<path d="M640 360c40-10 70-10 100 0" stroke="#B8872A" stroke-width="4" stroke-dasharray="4 12"/><path d="M726 350l16 10-16 12" stroke="#B8872A" stroke-width="4"/>
+</g>
+</svg>

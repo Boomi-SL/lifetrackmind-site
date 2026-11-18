@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A person stands with one hand on their belly, breathing slowly while holding a soft stress ball">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="203" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="1040" cy="140" r="60" fill="#F6E3B8" stroke="none"/>
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M120 300l30-26 20 30 26-40M180 420l30-20 14 26" stroke="#C9786A" stroke-width="4" opacity=".5"/>
+<g transform="translate(560 650) scale(1.0 1.0)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#C5D9CE"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M0 -268c8 8 22 8 30 0"/><path d="M-44 -228Q-47.0 -179.0 30 -170"/><path d="M44 -228Q97.0 -189.0 110 -170"/></g>
+<circle cx="672" cy="474" r="30" fill="#F3C9A0"/>
+<path d="M600 300c80-60 200-60 260 10c-60 60-180 70-260 20" stroke="#0F4C4A" stroke-width="4" stroke-dasharray="4 14"/>
+<path d="M846 300l14 10-16 10" stroke="#0F4C4A" stroke-width="4"/>
+<ellipse cx="560" cy="670" rx="150" ry="16" stroke="#9DBBAD" stroke-width="4"/><ellipse cx="560" cy="670" rx="240" ry="26" stroke="#C5D9CE" stroke-width="4"/>
+</g>
+</svg>
