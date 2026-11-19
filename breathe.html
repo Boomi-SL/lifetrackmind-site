@@ -17,11 +17,11 @@
 <meta property="og:url" content="https://lifetrackmind.com/breathe">
 <meta property="og:image" content="https://lifetrackmind.com/assets/share-logo.png">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="assets/favicon.svg?v=21" type="image/svg+xml">
+<link rel="icon" href="assets/favicon.svg?v=22" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap">
-<link rel="stylesheet" href="css/site.css?v=21">
+<link rel="stylesheet" href="css/site.css?v=22">
 </head>
 <body>
 <div style="font-family: 'Manrope', system-ui, sans-serif; color: #12302E; background: #FAF7EF; line-height: 1.6; font-size: 17px">
@@ -48,6 +48,7 @@
 <p class="tool-kicker">Breathing timer</p>
 <h1 class="tool-title">Breathe with the circle</h1>
 <p class="tool-lead">Breathe in as the circle grows. Breathe out as it settles. Nothing to solve right now.</p>
+<fieldset class="breathe-lengths breathe-feel" id="feel-before"><legend>Before you start: how tense do you feel? (optional)</legend><label><input type="radio" name="feel-before" value="1"><span>Calm</span></label><label><input type="radio" name="feel-before" value="2"><span>Okay</span></label><label><input type="radio" name="feel-before" value="3"><span>A bit tense</span></label><label><input type="radio" name="feel-before" value="4"><span>Tense</span></label><label><input type="radio" name="feel-before" value="5"><span>Very tense</span></label></fieldset>
 <div class="breathe-stage">
 <div id="breathe-circle" class="breathe-circle" aria-hidden="true"></div>
 <div class="breathe-core">
@@ -67,6 +68,22 @@
 <button type="button" id="breathe-reset" class="quiz-back" hidden>Stop</button>
 </div>
 <p class="tool-note">If slow breathing makes you feel dizzy or uncomfortable, stop and breathe normally.</p>
+<section id="breathe-done" class="breathe-done" aria-labelledby="breathe-done-title" hidden>
+<h2 id="breathe-done-title" class="breathe-done-title">You did it</h2>
+<p id="breathe-summary" class="breathe-summary"></p>
+<p id="breathe-new-step" class="breathe-new-step" hidden></p>
+<fieldset class="breathe-lengths breathe-feel" id="feel-after"><legend>How do you feel now?</legend><label><input type="radio" name="feel-after" value="1"><span>Calm</span></label><label><input type="radio" name="feel-after" value="2"><span>Okay</span></label><label><input type="radio" name="feel-after" value="3"><span>A bit tense</span></label><label><input type="radio" name="feel-after" value="4"><span>Tense</span></label><label><input type="radio" name="feel-after" value="5"><span>Very tense</span></label></fieldset>
+<p id="breathe-shift" class="breathe-shift" aria-live="polite" hidden></p>
+<div class="calm-path">
+<h3 class="calm-path-title">Your calm path</h3>
+<p id="calm-stats" class="tool-note"></p>
+<ol id="calm-steps" class="calm-steps"></ol>
+<p id="calm-next" class="calm-next"></p>
+</div>
+<p class="tool-note">Slow, steady breathing is one of the simple ways the NHS suggests to handle stress. <a href="article-how-to-calm-down-fast.html">More ways to calm down fast</a></p>
+<p class="tool-note">Your progress is saved only in this browser. <button type="button" id="breathe-clear" class="quiz-back breathe-clear">Clear my breathing history</button></p>
+</section>
+
 </div>
 </main>
 
@@ -94,7 +111,7 @@
 </footer>
 
 </div>
-<script src="js/breathe.js?v=21" defer></script>
-<script src="js/analytics.js?v=21" defer></script>
+<script src="js/breathe.js?v=22" defer></script>
+<script src="js/analytics.js?v=22" defer></script>
 </body>
 </html>
