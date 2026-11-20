@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="The miner walks away while a scrap dealer picks up his tools and lantern">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="303" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<rect width="1200" height="760" fill="#EFE9DE" stroke="none"/>
+<path d="M0 120c200-40 400-60 600-50s400 30 600 60V0H0z" fill="#D9CFBF"/>
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M150 650V170M120 170h330M420 650V170" stroke="#9A7B4F" stroke-width="12"/>
+<path d="M880 650c-30-120 10-240-20-360s40-170 20-210H1200v570z" fill="#C4B7A2"/><path d="M940 200l20 30M920 330l30 10M960 460l18 26M1030 260l26 6M1070 520l20-20" stroke="#8C7F6A" stroke-width="4"/>
+<path d="M890 300l18 22M900 300l-14 20" stroke="#6E6252" stroke-width="4"/><path d="M920 350l18 22M930 350l-14 20" stroke="#6E6252" stroke-width="4"/><path d="M880 400l18 22M890 400l-14 20" stroke="#6E6252" stroke-width="4"/><path d="M930 440l18 22M940 440l-14 20" stroke="#6E6252" stroke-width="4"/><path d="M900 490l18 22M910 490l-14 20" stroke="#6E6252" stroke-width="4"/>
+<g transform="translate(250 650) scale(1.0 1.0)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#D8CDBA"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="-28" cy="-292" r="4" fill="#12302E"/><circle cx="2" cy="-292" r="4" fill="#12302E"/>
+<path d="M-28 -262c8-8 22-8 30 0"/><path d="M-44 -228Q-52.0 -169.0 -60 -110"/><path d="M44 -228Q52.0 -169.0 60 -110"/></g>
+<path d="M180 636h-50M240 640h-40" stroke="#9DBBAD" stroke-width="5"/>
+<g transform="translate(640 650) scale(1.0 1.0)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#F1E9D6"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M0 -268c8 8 22 8 30 0"/><path d="M44 -228Q67.0 -184.0 110 -150"/><path d="M-44 -228Q-52.0 -169.0 -60 -110"/></g>
+<path d="M760 520L780 380" stroke="#9A7B4F" stroke-width="9"/><path d="M740 400c20-30 60-40 90-30" stroke="#8E9C9A" stroke-width="10"/>
+<path d="M536 650h48l-6-70h-36z" fill="#F6E3B8"/><path d="M544 580c0-24 32-24 32 0" stroke-width="4"/><circle cx="560" cy="616" r="9" fill="#F0B95A" stroke="#B8872A" stroke-width="3"/>
+<path d="M420 300c60-30 120-30 180 0" stroke="#B8872A" stroke-width="4" stroke-dasharray="4 12"/><path d="M590 290l14 12-18 8" stroke="#B8872A" stroke-width="4"/>
+
+</g>
+</svg>
