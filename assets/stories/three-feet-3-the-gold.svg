@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="An engineer points just past the old pick marks to where gold shows three feet into the rock">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="306" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<rect width="1200" height="760" fill="#EFE9DE" stroke="none"/>
+<path d="M0 120c200-40 400-60 600-50s400 30 600 60V0H0z" fill="#D9CFBF"/>
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M150 650V170M120 170h330M420 650V170" stroke="#9A7B4F" stroke-width="12"/>
+<circle cx="420" cy="610" r="150" fill="#FBEFC8" stroke="none" opacity=".75"/><path d="M396 650h48l-6-70h-36z" fill="#F6E3B8"/><path d="M404 580c0-24 32-24 32 0" stroke-width="4"/><circle cx="420" cy="616" r="9" fill="#F0B95A" stroke="#B8872A" stroke-width="3"/>
+<path d="M640 650c-30-120 10-240-20-360s40-170 20-210H1200v570z" fill="#C4B7A2"/><path d="M700 200l20 30M680 330l30 10M720 460l18 26M790 260l26 6M830 520l20-20" stroke="#8C7F6A" stroke-width="4"/>
+<path d="M650 300l18 22M660 300l-14 20" stroke="#6E6252" stroke-width="4"/><path d="M680 350l18 22M690 350l-14 20" stroke="#6E6252" stroke-width="4"/><path d="M640 400l18 22M650 400l-14 20" stroke="#6E6252" stroke-width="4"/><path d="M690 440l18 22M700 440l-14 20" stroke="#6E6252" stroke-width="4"/><path d="M660 490l18 22M670 490l-14 20" stroke="#6E6252" stroke-width="4"/>
+<path d="M640 650c-10-80 0-140 -10-200" stroke="none"/>
+<path d="M880 260c40-10 90 20 110 60s-10 90-60 90-80-40-70-90 0-56 20-60z" fill="#F2CF63" stroke="#B8872A" stroke-width="5"/>
+<path d="M910 300l20 10M950 340l-16 18M900 360l24 4" stroke="#B8872A" stroke-width="4"/>
+<g transform="translate(1020 250) scale(0.9 0.9)"><path d="M-14 0h28M0 -14v28M-9 -9l18 18M-9 9l18-18" stroke="#B8872A" stroke-width="4"/></g>
+<g transform="translate(860 230) scale(0.6 0.6)"><path d="M-14 0h28M0 -14v28M-9 -9l18 18M-9 9l18-18" stroke="#B8872A" stroke-width="4"/></g>
+<g transform="translate(1010 420) scale(0.6 0.6)"><path d="M-14 0h28M0 -14v28M-9 -9l18 18M-9 9l18-18" stroke="#B8872A" stroke-width="4"/></g>
+<path d="M700 520H900" stroke="#0F4C4A" stroke-width="5" stroke-dasharray="10 10"/><path d="M700 500v40M900 500v40" stroke="#0F4C4A" stroke-width="5"/>
+<g transform="translate(300 650) scale(0.95 0.95)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#B8CCC4"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M0 -268c8 8 22 8 30 0"/><path d="M44 -228Q132.0 -254.0 300 -320"/><path d="M-44 -228Q-52.0 -169.0 -60 -110"/></g>
+<g transform="translate(520 650) scale(0.9 0.9)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#F1E9D6"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M0 -268c8 8 22 8 30 0"/><path d="M44 -228Q67.0 -194.0 110 -170"/><path d="M-44 -228Q-52.0 -169.0 -60 -110"/></g>
+<path d="M610 520L630 400" stroke="#9A7B4F" stroke-width="9"/><path d="M590 420c20-30 60-40 90-30" stroke="#8E9C9A" stroke-width="10"/>
+</g>
+</svg>
