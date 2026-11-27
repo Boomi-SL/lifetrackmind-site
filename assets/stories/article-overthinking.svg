@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="A worried person with a tangled thought cloud, then the same person calmly holding a short written list with one item ticked">
+<defs><filter id="w" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="215" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6"/></filter></defs>
+<rect width="1200" height="760" fill="#FAF7EF"/>
+<g filter="url(#w)" fill="none" stroke="#12302E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<rect width="1200" height="760" fill="#EEF1EC" stroke="none"/>
+<ellipse cx="600" cy="650" rx="470" ry="30" fill="#E4ECE6" stroke="none"/>
+<path d="M90 650c220-8 440 6 660-2s250 4 360 0"/>
+<path d="M150 260c-40-80 40-150 120-130 40-60 160-60 200 0 80-10 120 70 80 130-20 50-90 60-130 40-40 30-120 30-150 0-60 10-110-10-120-40z" fill="#FFFFFF" stroke="#7C8C89" stroke-width="4"/>
+<path d="M170 170c40 -60 90 30 30 60s-60-50 0-80" stroke="#7C8C89" stroke-width="4"/><path d="M206 192c40 -60 90 30 30 60s-60-50 0-80" stroke="#7C8C89" stroke-width="4"/><path d="M242 214c40 -60 90 30 30 60s-60-50 0-80" stroke="#7C8C89" stroke-width="4"/><path d="M278 170c40 -60 90 30 30 60s-60-50 0-80" stroke="#7C8C89" stroke-width="4"/><path d="M314 192c40 -60 90 30 30 60s-60-50 0-80" stroke="#7C8C89" stroke-width="4"/><path d="M350 214c40 -60 90 30 30 60s-60-50 0-80" stroke="#7C8C89" stroke-width="4"/><path d="M386 170c40 -60 90 30 30 60s-60-50 0-80" stroke="#7C8C89" stroke-width="4"/>
+<g transform="translate(230 210) scale(0.7 0.7)"><path d="M-18 -30c0-28 38-32 38-4c0 20-20 18-20 38M0 34v2" stroke="#B8872A" stroke-width="6"/></g>
+<g transform="translate(420 230) scale(0.6 0.6)"><path d="M-18 -30c0-28 38-32 38-4c0 20-20 18-20 38M0 34v2" stroke="#B8872A" stroke-width="6"/></g>
+<circle cx="300" cy="350" r="10" fill="#FFFFFF" stroke="#7C8C89" stroke-width="4"/><circle cx="300" cy="384" r="6" fill="#FFFFFF" stroke="#7C8C89" stroke-width="4"/>
+<g transform="translate(300 650) scale(1.0 1.0)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#D8CDBA"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M0 -262c8-8 22-8 30 0"/><path d="M-44 -228Q-62.0 -179.0 -40 -150"/><path d="M44 -228Q62.0 -179.0 40 -150"/></g>
+<path d="M540 420c60-40 120-40 180 0" stroke="#B8872A" stroke-width="5" stroke-dasharray="6 14"/><path d="M706 404l18 18-24 8" stroke="#B8872A" stroke-width="5"/>
+<rect x="950" y="250" width="180" height="220" rx="12" fill="#FFFFFF" stroke-width="5"/>
+<rect x="974" y="284" width="26" height="26" rx="5" stroke-width="4"/><path d="M1018 300h86" stroke="#9DB3AC" stroke-width="6"/>
+<path d="M978 296l8 9 16-20" stroke="#0F4C4A" stroke-width="5"/>
+<rect x="974" y="340" width="26" height="26" rx="5" stroke-width="4"/><path d="M1018 356h86" stroke="#9DB3AC" stroke-width="6"/>
+<rect x="974" y="396" width="26" height="26" rx="5" stroke-width="4"/><path d="M1018 412h86" stroke="#9DB3AC" stroke-width="6"/>
+<g transform="translate(830 650) scale(1.0 1.0)"><path d="M-24 -110l-8 108M24 -110l8 108"/>
+<path d="M-48 -240c-16 40-12 90 6 132h84c18-42 22-92 6-132z" fill="#B8CCC4"/>
+<circle cx="0" cy="-292" r="52" fill="#F3E3CF"/><path d="M-44 -310c10-40 76-44 92-6"/>
+<circle cx="0" cy="-292" r="4" fill="#12302E"/><circle cx="30" cy="-292" r="4" fill="#12302E"/>
+<path d="M0 -268c8 8 22 8 30 0"/><path d="M44 -228Q67.0 -209.0 110 -200"/><path d="M-44 -228Q-52.0 -169.0 -60 -110"/></g>
+<g transform="translate(1160 230) scale(0.7 0.7)"><path d="M-14 0h28M0 -14v28M-9 -9l18 18M-9 9l18-18" stroke="#B8872A" stroke-width="4"/></g>
+</g>
+</svg>
