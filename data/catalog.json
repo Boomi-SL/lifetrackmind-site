@@ -30,6 +30,12 @@
   "author": "David D. Burns"
  },
  {
+  "key": "unwinding-anxiety",
+  "kind": "book",
+  "title": "Unwinding Anxiety",
+  "author": "Judson Brewer"
+ },
+ {
   "key": "the-gifts-of-imperfection",
   "kind": "book",
   "title": "The Gifts of Imperfection",
@@ -54,6 +60,18 @@
   "author": "Nathaniel Branden"
  },
  {
+  "key": "radical-acceptance",
+  "kind": "book",
+  "title": "Radical Acceptance",
+  "author": "Tara Brach"
+ },
+ {
+  "key": "the-mountain-is-you",
+  "kind": "book",
+  "title": "The Mountain Is You",
+  "author": "Brianna Wiest"
+ },
+ {
   "key": "set-boundaries-find-peace",
   "kind": "book",
   "title": "Set Boundaries, Find Peace",
@@ -76,6 +94,12 @@
   "kind": "book",
   "title": "The Disease to Please",
   "author": "Harriet B. Braiker"
+ },
+ {
+  "key": "the-let-them-theory",
+  "kind": "book",
+  "title": "The Let Them Theory",
+  "author": "Mel Robbins"
  },
  {
   "key": "atomic-habits",
@@ -107,6 +131,12 @@
   "kind": "book",
   "title": "Man's Search for Meaning",
   "author": "Viktor E. Frankl"
+ },
+ {
+  "key": "four-thousand-weeks",
+  "kind": "book",
+  "title": "Four Thousand Weeks",
+  "author": "Oliver Burkeman"
  },
  {
   "key": "why-we-sleep",
@@ -194,6 +224,18 @@
   "keywords": "soft earplugs for sleeping"
  },
  {
+  "key": "analog-alarm-clock",
+  "kind": "product",
+  "title": "Analog alarm clock",
+  "keywords": "analog alarm clock silent non ticking"
+ },
+ {
+  "key": "book-light",
+  "kind": "product",
+  "title": "Book light",
+  "keywords": "rechargeable clip on book light warm"
+ },
+ {
   "key": "essential-oil-diffuser",
   "kind": "product",
   "title": "Essential oil diffuser",
@@ -216,6 +258,12 @@
   "kind": "product",
   "title": "Meditation cushion",
   "keywords": "meditation cushion"
+ },
+ {
+  "key": "soy-candle",
+  "kind": "product",
+  "title": "Soy candle",
+  "keywords": "soy candle lavender"
  },
  {
   "key": "guided-journal",
@@ -294,5 +342,17 @@
   "kind": "product",
   "title": "Desk timer",
   "keywords": "visual desk timer"
+ },
+ {
+  "key": "phone-lock-box",
+  "kind": "product",
+  "title": "Phone lock box",
+  "keywords": "phone lock box timer"
+ },
+ {
+  "key": "worry-stone",
+  "kind": "product",
+  "title": "Worry stone",
+  "keywords": "worry stone set"
  }
 ]
