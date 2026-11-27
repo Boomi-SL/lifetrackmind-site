@@ -32,3 +32,7 @@ No build step. Any static host can serve this folder as it is.
 When `css/site.css` or a file in `js/` changes, raise the `?v=` number on the links to it in every page, so browsers load the new file.
 
 If the site moves to its own domain, update the address in `404.html`, `robots.txt`, `sitemap.xml`, and on every page the canonical link, the `hreflang` links, the `og:url` / `og:image` tags and the structured data.
+
+## Share images for articles
+- `assets/share/article-*.png`: the 1200x630 picture Facebook, WhatsApp, X etc. show when an article link is shared (title + the article's illustration).
+- `scripts/make_share_images.py` builds them for every `article-*.html` and sets that page's `og:type` (article), `og:image` (+ size and alt), `twitter:image` and structured-data image. Run it again after adding or renaming an article: `python3 scripts/make_share_images.py --chrome /path/to/chrome` (needs `pip install playwright`). Fonts are in `scripts/fonts/`.
